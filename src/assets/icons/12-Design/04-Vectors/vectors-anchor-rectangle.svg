@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<title>vectors-anchor-rectangle</title>
+	<path d="M1,24c-0.551,0-1-0.448-1-1v-3c0-0.552,0.449-1,1-1h1V5H1C0.449,5,0,4.551,0,4V1c0-0.551,0.449-1,1-1h3
+		c0.551,0,1,0.449,1,1v1.09l14,2.8V4c0-0.551,0.448-1,1-1h3c0.552,0,1,0.449,1,1v3c0,0.551-0.448,1-1,1h-1v8h1c0.552,0,1,0.448,1,1
+		v3c0,0.552-0.448,1-1,1h-3c-0.552,0-1-0.448-1-1v-0.89l-14,2.8V23c0,0.552-0.449,1-1,1H1z M1,23h3v-3H1L1,23z M4,19
+		c0.551,0,1,0.448,1,1v0.89l14-2.8V17c0-0.552,0.448-1,1-1h1V8h-1c-0.552,0-1-0.449-1-1V5.91L5,3.11V4c0,0.551-0.449,1-1,1H3v14H4z
+		 M20,20h3v-3h-3L20,20z M20,7h3V4h-3L20,7z M1,4h3V1H1L1,4z"/>
+</g>
+</svg>

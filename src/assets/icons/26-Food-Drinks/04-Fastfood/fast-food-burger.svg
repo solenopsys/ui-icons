@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<title>fast-food-burger</title>
+	<path d="M3.5,20C2.121,20,1,18.878,1,17.5v-0.771C0.388,16.374,0,15.711,0,15v-1c0-0.711,0.388-1.374,1-1.729V11c0-3.86,3.14-7,7-7
+		h8c3.86,0,7,3.14,7,7v1.271c0.612,0.355,1,1.018,1,1.729v1c0,0.711-0.388,1.374-1,1.729V17.5c0,1.378-1.122,2.5-2.5,2.5H3.5z
+		 M2,17.5C2,18.327,2.673,19,3.5,19h17c0.827,0,1.5-0.673,1.5-1.5V17H2V17.5z M2,13c-0.551,0-1,0.448-1,1v1c0,0.552,0.449,1,1,1h20
+		c0.552,0,1-0.448,1-1v-1c0-0.552-0.448-1-1-1H2z M22,12v-1c0-3.308-2.692-6-6-6H8c-3.308,0-6,2.692-6,6v1H22z"/>
+	<circle cx="12" cy="8.814" r="0.75"/>
+	<circle cx="9.5" cy="7.314" r="0.75"/>
+	<circle cx="7" cy="8.814" r="0.75"/>
+	<circle cx="14.5" cy="7.314" r="0.75"/>
+	<circle cx="17" cy="8.814" r="0.75"/>
+</g>
+</svg>

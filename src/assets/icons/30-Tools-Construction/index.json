@@ -1,0 +1,103 @@
+{
+    "01-Tools": {
+        "tools-axe": "30-Tools-Construction/01-Tools/tools-axe.svg",
+        "tools-axe-hold": "30-Tools-Construction/01-Tools/tools-axe-hold.svg",
+        "tools-box": "30-Tools-Construction/01-Tools/tools-box.svg",
+        "tools-box-1": "30-Tools-Construction/01-Tools/tools-box-1.svg",
+        "tools-crescent-double": "30-Tools-Construction/01-Tools/tools-crescent-double.svg",
+        "tools-crescent-wench": "30-Tools-Construction/01-Tools/tools-crescent-wench.svg",
+        "tools-flattener-square": "30-Tools-Construction/01-Tools/tools-flattener-square.svg",
+        "tools-flattener-triangle": "30-Tools-Construction/01-Tools/tools-flattener-triangle.svg",
+        "tools-flattener-triangle-1": "30-Tools-Construction/01-Tools/tools-flattener-triangle-1.svg",
+        "tools-gasket": "30-Tools-Construction/01-Tools/tools-gasket.svg",
+        "tools-gasket-1": "30-Tools-Construction/01-Tools/tools-gasket-1.svg",
+        "tools-glue-gun": "30-Tools-Construction/01-Tools/tools-glue-gun.svg",
+        "tools-hammer": "30-Tools-Construction/01-Tools/tools-hammer.svg",
+        "tools-hammer-1": "30-Tools-Construction/01-Tools/tools-hammer-1.svg",
+        "tools-hammer-2": "30-Tools-Construction/01-Tools/tools-hammer-2.svg",
+        "tools-hammer-3": "30-Tools-Construction/01-Tools/tools-hammer-3.svg",
+        "tools-hammer-hold": "30-Tools-Construction/01-Tools/tools-hammer-hold.svg",
+        "tools-keys": "30-Tools-Construction/01-Tools/tools-keys.svg",
+        "tools-nail-gun": "30-Tools-Construction/01-Tools/tools-nail-gun.svg",
+        "tools-palette-spatula": "30-Tools-Construction/01-Tools/tools-palette-spatula.svg",
+        "tools-palette-trowel": "30-Tools-Construction/01-Tools/tools-palette-trowel.svg",
+        "tools-pickaxe": "30-Tools-Construction/01-Tools/tools-pickaxe.svg",
+        "tools-pliers": "30-Tools-Construction/01-Tools/tools-pliers.svg",
+        "tools-pry-bar": "30-Tools-Construction/01-Tools/tools-pry-bar.svg",
+        "tools-saw": "30-Tools-Construction/01-Tools/tools-saw.svg",
+        "tools-screwdriver-1": "30-Tools-Construction/01-Tools/tools-screwdriver-1.svg",
+        "tools-shovel": "30-Tools-Construction/01-Tools/tools-shovel.svg",
+        "tools-slip-joint-pliers": "30-Tools-Construction/01-Tools/tools-slip-joint-pliers.svg",
+        "tools-vice-grip": "30-Tools-Construction/01-Tools/tools-vice-grip.svg",
+        "tools-wench": "30-Tools-Construction/01-Tools/tools-wench.svg",
+        "tools-wench-1": "30-Tools-Construction/01-Tools/tools-wench-1.svg",
+        "tools-wench-2": "30-Tools-Construction/01-Tools/tools-wench-2.svg",
+        "tools-wench-hold": "30-Tools-Construction/01-Tools/tools-wench-hold.svg",
+        "tools-wench-screwdriver": "30-Tools-Construction/01-Tools/tools-wench-screwdriver.svg",
+        "tools-wheel-unscrew": "30-Tools-Construction/01-Tools/tools-wheel-unscrew.svg",
+        "tools-wood-saw": "30-Tools-Construction/01-Tools/tools-wood-saw.svg"
+    },
+    "02-Power-Tools": {
+        "power-tools-circular-saw": "30-Tools-Construction/02-Power-Tools/power-tools-circular-saw.svg",
+        "power-tools-drill": "30-Tools-Construction/02-Power-Tools/power-tools-drill.svg",
+        "power-tools-electric-saw": "30-Tools-Construction/02-Power-Tools/power-tools-electric-saw.svg",
+        "power-tools-electric-saw-1": "30-Tools-Construction/02-Power-Tools/power-tools-electric-saw-1.svg",
+        "power-tools-wood-cutter": "30-Tools-Construction/02-Power-Tools/power-tools-wood-cutter.svg",
+        "power-tools-wood-cutter-1": "30-Tools-Construction/02-Power-Tools/power-tools-wood-cutter-1.svg"
+    },
+    "03-Hardware": {
+        "hardware-drill-carbide": "30-Tools-Construction/03-Hardware/hardware-drill-carbide.svg",
+        "hardware-hammer-nail": "30-Tools-Construction/03-Hardware/hardware-hammer-nail.svg",
+        "hardware-hammer-nail-hit": "30-Tools-Construction/03-Hardware/hardware-hammer-nail-hit.svg",
+        "hardware-nail": "30-Tools-Construction/03-Hardware/hardware-nail.svg",
+        "hardware-nail-round-head": "30-Tools-Construction/03-Hardware/hardware-nail-round-head.svg",
+        "hardware-nails": "30-Tools-Construction/03-Hardware/hardware-nails.svg",
+        "hardware-nut": "30-Tools-Construction/03-Hardware/hardware-nut.svg",
+        "hardware-nut-round": "30-Tools-Construction/03-Hardware/hardware-nut-round.svg",
+        "hardware-nuts": "30-Tools-Construction/03-Hardware/hardware-nuts.svg",
+        "hardware-nuts-1": "30-Tools-Construction/03-Hardware/hardware-nuts-1.svg",
+        "hardware-nuts-round": "30-Tools-Construction/03-Hardware/hardware-nuts-round.svg",
+        "hardware-wench-screw": "30-Tools-Construction/03-Hardware/hardware-wench-screw.svg"
+    },
+    "04-Measures-Levels": {
+        "measure-caliber": "30-Tools-Construction/04-Measures-Levels/measure-caliber.svg",
+        "measure-caliber-1": "30-Tools-Construction/04-Measures-Levels/measure-caliber-1.svg",
+        "measure-construction": "30-Tools-Construction/04-Measures-Levels/measure-construction.svg",
+        "measure-ruler": "30-Tools-Construction/04-Measures-Levels/measure-ruler.svg",
+        "measure-ruler-corner": "30-Tools-Construction/04-Measures-Levels/measure-ruler-corner.svg",
+        "measure-ruler-divider": "30-Tools-Construction/04-Measures-Levels/measure-ruler-divider.svg"
+    },
+    "05-Clamps-Jacks": {
+        "clamp-expand-1": "30-Tools-Construction/05-Clamps-Jacks/clamp-expand-1.svg",
+        "clamp-machine": "30-Tools-Construction/05-Clamps-Jacks/clamp-machine.svg",
+        "clamp-press": "30-Tools-Construction/05-Clamps-Jacks/clamp-press.svg",
+        "clamp-press-1": "30-Tools-Construction/05-Clamps-Jacks/clamp-press-1.svg",
+        "clamps-expand": "30-Tools-Construction/05-Clamps-Jacks/clamps-expand.svg",
+        "jackclamp": "30-Tools-Construction/05-Clamps-Jacks/jackclamp.svg"
+    },
+    "06-Materials": {
+        "material-brick": "30-Tools-Construction/06-Materials/material-brick.svg",
+        "material-fabric": "30-Tools-Construction/06-Materials/material-fabric.svg",
+        "material-isolation": "30-Tools-Construction/06-Materials/material-isolation.svg",
+        "material-stone": "30-Tools-Construction/06-Materials/material-stone.svg",
+        "material-tile": "30-Tools-Construction/06-Materials/material-tile.svg",
+        "material-tile-roof": "30-Tools-Construction/06-Materials/material-tile-roof.svg",
+        "material-tile-roof-1": "30-Tools-Construction/06-Materials/material-tile-roof-1.svg"
+    },
+    "07-Safety": {
+        "safety-helmet": "30-Tools-Construction/07-Safety/safety-helmet.svg",
+        "safety-helmet-1": "30-Tools-Construction/07-Safety/safety-helmet-1.svg",
+        "safety-helmet-mine": "30-Tools-Construction/07-Safety/safety-helmet-mine.svg",
+        "safety-helmet-mine-1": "30-Tools-Construction/07-Safety/safety-helmet-mine-1.svg",
+        "safety-helmlet-mine-light": "30-Tools-Construction/07-Safety/safety-helmlet-mine-light.svg"
+    },
+    "08-Equipment": {
+        "equipment-cement": "30-Tools-Construction/08-Equipment/equipment-cement.svg",
+        "equipment-cement-cart": "30-Tools-Construction/08-Equipment/equipment-cement-cart.svg",
+        "equipment-hammer-stone": "30-Tools-Construction/08-Equipment/equipment-hammer-stone.svg",
+        "equipment-ladder": "30-Tools-Construction/08-Equipment/equipment-ladder.svg",
+        "equipment-machine-track": "30-Tools-Construction/08-Equipment/equipment-machine-track.svg",
+        "equipment-pressure-measure": "30-Tools-Construction/08-Equipment/equipment-pressure-measure.svg",
+        "equipment-safety-mask": "30-Tools-Construction/08-Equipment/equipment-safety-mask.svg"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "01-Ecology": {
+        "ecology-globe-hand": "31-Ecology/01-Ecology/ecology-globe-hand.svg",
+        "ecology-globe-hand-1": "31-Ecology/01-Ecology/ecology-globe-hand-1.svg",
+        "ecology-globe-house": "31-Ecology/01-Ecology/ecology-globe-house.svg",
+        "ecology-globe-leaf": "31-Ecology/01-Ecology/ecology-globe-leaf.svg",
+        "ecology-globe-message": "31-Ecology/01-Ecology/ecology-globe-message.svg",
+        "ecology-globe-message-1": "31-Ecology/01-Ecology/ecology-globe-message-1.svg",
+        "ecology-globe-nature": "31-Ecology/01-Ecology/ecology-globe-nature.svg",
+        "ecology-human-mind": "31-Ecology/01-Ecology/ecology-human-mind.svg",
+        "ecology-human-mind-flower": "31-Ecology/01-Ecology/ecology-human-mind-flower.svg",
+        "ecology-leaf": "31-Ecology/01-Ecology/ecology-leaf.svg",
+        "ecology-leaf-book": "31-Ecology/01-Ecology/ecology-leaf-book.svg",
+        "ecology-leaf-book-open": "31-Ecology/01-Ecology/ecology-leaf-book-open.svg",
+        "ecology-leaf-bulb": "31-Ecology/01-Ecology/ecology-leaf-bulb.svg",
+        "ecology-leaf-message": "31-Ecology/01-Ecology/ecology-leaf-message.svg",
+        "ecology-leaf-movie": "31-Ecology/01-Ecology/ecology-leaf-movie.svg",
+        "ecology-leaf-search": "31-Ecology/01-Ecology/ecology-leaf-search.svg",
+        "ecology-leaf-settings": "31-Ecology/01-Ecology/ecology-leaf-settings.svg",
+        "ecology-leaf-shield": "31-Ecology/01-Ecology/ecology-leaf-shield.svg",
+        "ecology-plant-deal": "31-Ecology/01-Ecology/ecology-plant-deal.svg",
+        "ecology-plant-hand": "31-Ecology/01-Ecology/ecology-plant-hand.svg",
+        "ecology-plant-hand-1": "31-Ecology/01-Ecology/ecology-plant-hand-1.svg"
+    },
+    "02-Renewable-Energy": {
+        "renewable-energy-accumulator": "31-Ecology/02-Renewable-Energy/renewable-energy-accumulator.svg",
+        "renewable-energy-battery-charge": "31-Ecology/02-Renewable-Energy/renewable-energy-battery-charge.svg",
+        "renewable-energy-battery-charge-1": "31-Ecology/02-Renewable-Energy/renewable-energy-battery-charge-1.svg",
+        "renewable-energy-battery-leaf": "31-Ecology/02-Renewable-Energy/renewable-energy-battery-leaf.svg",
+        "renewable-energy-battery-leaf-1": "31-Ecology/02-Renewable-Energy/renewable-energy-battery-leaf-1.svg",
+        "renewable-energy-charging": "31-Ecology/02-Renewable-Energy/renewable-energy-charging.svg",
+        "renewable-energy-earth": "31-Ecology/02-Renewable-Energy/renewable-energy-earth.svg",
+        "renewable-energy-eco-barrel": "31-Ecology/02-Renewable-Energy/renewable-energy-eco-barrel.svg",
+        "renewable-energy-paper-turbine": "31-Ecology/02-Renewable-Energy/renewable-energy-paper-turbine.svg",
+        "renewable-energy-power-socket": "31-Ecology/02-Renewable-Energy/renewable-energy-power-socket.svg",
+        "renewable-energy-solar-electricity": "31-Ecology/02-Renewable-Energy/renewable-energy-solar-electricity.svg",
+        "renewable-energy-solar-monitor": "31-Ecology/02-Renewable-Energy/renewable-energy-solar-monitor.svg",
+        "renewable-energy-solar-panel": "31-Ecology/02-Renewable-Energy/renewable-energy-solar-panel.svg",
+        "renewable-energy-solar-power": "31-Ecology/02-Renewable-Energy/renewable-energy-solar-power.svg",
+        "renewable-energy-solar-smartphone": "31-Ecology/02-Renewable-Energy/renewable-energy-solar-smartphone.svg",
+        "renewable-energy-water-dam": "31-Ecology/02-Renewable-Energy/renewable-energy-water-dam.svg",
+        "renewable-energy-water-dam-1": "31-Ecology/02-Renewable-Energy/renewable-energy-water-dam-1.svg",
+        "renewable-energy-water-power": "31-Ecology/02-Renewable-Energy/renewable-energy-water-power.svg",
+        "renewable-energy-wind-turbine": "31-Ecology/02-Renewable-Energy/renewable-energy-wind-turbine.svg",
+        "renewable-energy-wind-turbine-1": "31-Ecology/02-Renewable-Energy/renewable-energy-wind-turbine-1.svg",
+        "renewable-energy-wind-turbine-2": "31-Ecology/02-Renewable-Energy/renewable-energy-wind-turbine-2.svg"
+    },
+    "03-Water-Protection": {
+        "water-protection-drop": "31-Ecology/03-Water-Protection/water-protection-drop.svg",
+        "water-protection-drop-1": "31-Ecology/03-Water-Protection/water-protection-drop-1.svg",
+        "water-protection-drop-hold": "31-Ecology/03-Water-Protection/water-protection-drop-hold.svg",
+        "water-protection-drop-hold-1": "31-Ecology/03-Water-Protection/water-protection-drop-hold-1.svg",
+        "water-protection-faucet": "31-Ecology/03-Water-Protection/water-protection-faucet.svg",
+        "water-protection-fish": "31-Ecology/03-Water-Protection/water-protection-fish.svg",
+        "water-protection-refresh": "31-Ecology/03-Water-Protection/water-protection-refresh.svg",
+        "water-protection-tower": "31-Ecology/03-Water-Protection/water-protection-tower.svg"
+    },
+    "04-Wildlife-Protection": {
+        "wildlife-protection-hold": "31-Ecology/04-Wildlife-Protection/wildlife-protection-hold.svg",
+        "wildlife-protection-shield": "31-Ecology/04-Wildlife-Protection/wildlife-protection-shield.svg",
+        "wildlife-protection-tree-shield": "31-Ecology/04-Wildlife-Protection/wildlife-protection-tree-shield.svg",
+        "wildlife-protection-tree-shield-1": "31-Ecology/04-Wildlife-Protection/wildlife-protection-tree-shield-1.svg"
+    },
+    "05-Recycling": {
+        "recycling-bag": "31-Ecology/05-Recycling/recycling-bag.svg",
+        "recycling-bag-1": "31-Ecology/05-Recycling/recycling-bag-1.svg",
+        "recycling-bottle": "31-Ecology/05-Recycling/recycling-bottle.svg",
+        "recycling-hand-trash": "31-Ecology/05-Recycling/recycling-hand-trash.svg",
+        "recycling-hand-trash-1": "31-Ecology/05-Recycling/recycling-hand-trash-1.svg",
+        "recycling-label": "31-Ecology/05-Recycling/recycling-label.svg",
+        "recycling-paper": "31-Ecology/05-Recycling/recycling-paper.svg",
+        "recycling-refresh": "31-Ecology/05-Recycling/recycling-refresh.svg",
+        "recycling-sign": "31-Ecology/05-Recycling/recycling-sign.svg",
+        "recycling-trash-bin": "31-Ecology/05-Recycling/recycling-trash-bin.svg",
+        "recycling-trash-bin-1": "31-Ecology/05-Recycling/recycling-trash-bin-1.svg",
+        "recycling-trash-bin-2": "31-Ecology/05-Recycling/recycling-trash-bin-2.svg"
+    },
+    "06-Seasons": {
+        "season-autumn": "31-Ecology/06-Seasons/season-autumn.svg",
+        "season-spring": "31-Ecology/06-Seasons/season-spring.svg",
+        "season-summer": "31-Ecology/06-Seasons/season-summer.svg",
+        "season-winter": "31-Ecology/06-Seasons/season-winter.svg"
+    },
+    "07-Clean-Cars": {
+        "clean-bicycle": "31-Ecology/07-Clean-Cars/clean-bicycle.svg",
+        "clean-car-cable": "31-Ecology/07-Clean-Cars/clean-car-cable.svg",
+        "clean-car-cable-charge": "31-Ecology/07-Clean-Cars/clean-car-cable-charge.svg",
+        "clean-car-cable-charge-1": "31-Ecology/07-Clean-Cars/clean-car-cable-charge-1.svg",
+        "clean-car-cable-charge-2": "31-Ecology/07-Clean-Cars/clean-car-cable-charge-2.svg",
+        "clean-car-charging-cable": "31-Ecology/07-Clean-Cars/clean-car-charging-cable.svg",
+        "clean-car-gas": "31-Ecology/07-Clean-Cars/clean-car-gas.svg",
+        "clean-car-leaf": "31-Ecology/07-Clean-Cars/clean-car-leaf.svg",
+        "clean-car-leaf-1": "31-Ecology/07-Clean-Cars/clean-car-leaf-1.svg",
+        "clean-car-leaf-2": "31-Ecology/07-Clean-Cars/clean-car-leaf-2.svg"
+    },
+    "08-Ecological-Houses": {
+        "eco-house": "31-Ecology/08-Ecological-Houses/eco-house.svg",
+        "eco-house-sun": "31-Ecology/08-Ecological-Houses/eco-house-sun.svg"
+    },
+    "09-Plant-Growth-Organic-Fretilizer": {
+        "organic-bag-leaf": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-bag-leaf.svg",
+        "organic-flask": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-flask.svg",
+        "organic-flask-1": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-flask-1.svg",
+        "organic-plant": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-plant.svg",
+        "organic-plant-grow": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-plant-grow.svg",
+        "organic-plant-grow-1": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-plant-grow-1.svg",
+        "organic-plant-root": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-plant-root.svg",
+        "organic-rain-growth": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-rain-growth.svg",
+        "organic-seedling-growth": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-seedling-growth.svg",
+        "organic-sun-growth": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-sun-growth.svg",
+        "organic-tree": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-tree.svg",
+        "organic-tree-1": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-tree-1.svg",
+        "organic-watering-plant": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-watering-plant.svg",
+        "organic-worm": "31-Ecology/09-Plant-Growth-Organic-Fretilizer/organic-worm.svg"
+    },
+    "10-Organic-Non-GMO": {
+        "non-gmo-dna": "31-Ecology/10-Organic-Non-GMO/non-gmo-dna.svg",
+        "non-gmo-fertilizer": "31-Ecology/10-Organic-Non-GMO/non-gmo-fertilizer.svg",
+        "non-gmo-fire": "31-Ecology/10-Organic-Non-GMO/non-gmo-fire.svg",
+        "non-gmo-injection": "31-Ecology/10-Organic-Non-GMO/non-gmo-injection.svg",
+        "non-gmo-lab": "31-Ecology/10-Organic-Non-GMO/non-gmo-lab.svg",
+        "non-gmo-organic-flask": "31-Ecology/10-Organic-Non-GMO/non-gmo-organic-flask.svg",
+        "non-gmo-spray": "31-Ecology/10-Organic-Non-GMO/non-gmo-spray.svg"
+    },
+    "11-Deforestation": {
+        "deforestation-axe-forbidden": "31-Ecology/11-Deforestation/deforestation-axe-forbidden.svg",
+        "deforestation-cut-tree": "31-Ecology/11-Deforestation/deforestation-cut-tree.svg",
+        "deforestation-saw-forbidden": "31-Ecology/11-Deforestation/deforestation-saw-forbidden.svg"
+    },
+    "12-Global-Warming": {
+        "global-warming-dead-plant": "31-Ecology/12-Global-Warming/global-warming-dead-plant.svg",
+        "global-warming-globe-fire": "31-Ecology/12-Global-Warming/global-warming-globe-fire.svg",
+        "global-warming-globe-fire-1": "31-Ecology/12-Global-Warming/global-warming-globe-fire-1.svg",
+        "global-warming-high-temperature": "31-Ecology/12-Global-Warming/global-warming-high-temperature.svg"
+    },
+    "13-Pollution": {
+        "pollution-barrel": "31-Ecology/13-Pollution/pollution-barrel.svg",
+        "pollution-co2": "31-Ecology/13-Pollution/pollution-co2.svg",
+        "pollution-co2-message": "31-Ecology/13-Pollution/pollution-co2-message.svg",
+        "pollution-drop-skull": "31-Ecology/13-Pollution/pollution-drop-skull.svg",
+        "pollution-faucet-water": "31-Ecology/13-Pollution/pollution-faucet-water.svg",
+        "pollution-fish": "31-Ecology/13-Pollution/pollution-fish.svg",
+        "pollution-o2": "31-Ecology/13-Pollution/pollution-o2.svg",
+        "pollution-o2-message": "31-Ecology/13-Pollution/pollution-o2-message.svg",
+        "pollution-pm10": "31-Ecology/13-Pollution/pollution-pm10.svg",
+        "pollution-rain-skull": "31-Ecology/13-Pollution/pollution-rain-skull.svg",
+        "pollution-skull": "31-Ecology/13-Pollution/pollution-skull.svg",
+        "pollution-skull-1": "31-Ecology/13-Pollution/pollution-skull-1.svg",
+        "pollution-water": "31-Ecology/13-Pollution/pollution-water.svg"
+    },
+    "14-Nuclear-Fossil-Energy": {
+        "fossil-energy-barrel": "31-Ecology/14-Nuclear-Fossil-Energy/fossil-energy-barrel.svg",
+        "fossil-energy-battery": "31-Ecology/14-Nuclear-Fossil-Energy/fossil-energy-battery.svg",
+        "fossil-energy-gas-can": "31-Ecology/14-Nuclear-Fossil-Energy/fossil-energy-gas-can.svg",
+        "fossil-energy-gas-latern": "31-Ecology/14-Nuclear-Fossil-Energy/fossil-energy-gas-latern.svg",
+        "fossil-energy-plant": "31-Ecology/14-Nuclear-Fossil-Energy/fossil-energy-plant.svg",
+        "nuclear-energy-bin": "31-Ecology/14-Nuclear-Fossil-Energy/nuclear-energy-bin.svg",
+        "nuclear-energy-message": "31-Ecology/14-Nuclear-Fossil-Energy/nuclear-energy-message.svg",
+        "nuclear-energy-plant": "31-Ecology/14-Nuclear-Fossil-Energy/nuclear-energy-plant.svg",
+        "nuclear-energy-truck": "31-Ecology/14-Nuclear-Fossil-Energy/nuclear-energy-truck.svg"
+    },
+    "15-GMO-Chemical-Food": {
+        "gmo-food-apple": "31-Ecology/15-GMO-Chemical-Food/gmo-food-apple.svg",
+        "gmo-food-apple-dna": "31-Ecology/15-GMO-Chemical-Food/gmo-food-apple-dna.svg",
+        "gmo-food-chicken-leg": "31-Ecology/15-GMO-Chemical-Food/gmo-food-chicken-leg.svg",
+        "gmo-food-corn-dna": "31-Ecology/15-GMO-Chemical-Food/gmo-food-corn-dna.svg",
+        "gmo-food-lab-bag": "31-Ecology/15-GMO-Chemical-Food/gmo-food-lab-bag.svg",
+        "gmo-food-leaf-dna": "31-Ecology/15-GMO-Chemical-Food/gmo-food-leaf-dna.svg",
+        "gmo-food-pear": "31-Ecology/15-GMO-Chemical-Food/gmo-food-pear.svg",
+        "gmo-food-steak": "31-Ecology/15-GMO-Chemical-Food/gmo-food-steak.svg"
+    }
+}

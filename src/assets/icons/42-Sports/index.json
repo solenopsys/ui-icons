@@ -1,0 +1,263 @@
+{
+    "01-Yoga-Stretching": {
+        "yoga-arm-stretch": "42-Sports/01-Yoga-Stretching/yoga-arm-stretch.svg",
+        "yoga-arms-stretch": "42-Sports/01-Yoga-Stretching/yoga-arms-stretch.svg",
+        "yoga-back-stretch": "42-Sports/01-Yoga-Stretching/yoga-back-stretch.svg",
+        "yoga-back-stretch-1": "42-Sports/01-Yoga-Stretching/yoga-back-stretch-1.svg",
+        "yoga-back-stretch-2": "42-Sports/01-Yoga-Stretching/yoga-back-stretch-2.svg",
+        "yoga-bridge": "42-Sports/01-Yoga-Stretching/yoga-bridge.svg",
+        "yoga-cobra": "42-Sports/01-Yoga-Stretching/yoga-cobra.svg",
+        "yoga-down-stretch": "42-Sports/01-Yoga-Stretching/yoga-down-stretch.svg",
+        "yoga-full-body-stretch": "42-Sports/01-Yoga-Stretching/yoga-full-body-stretch.svg",
+        "yoga-leg-grab-stretch": "42-Sports/01-Yoga-Stretching/yoga-leg-grab-stretch.svg",
+        "yoga-mat": "42-Sports/01-Yoga-Stretching/yoga-mat.svg",
+        "yoga-meditate": "42-Sports/01-Yoga-Stretching/yoga-meditate.svg",
+        "yoga-meditate-1": "42-Sports/01-Yoga-Stretching/yoga-meditate-1.svg",
+        "yoga-shoulder-stretch": "42-Sports/01-Yoga-Stretching/yoga-shoulder-stretch.svg",
+        "yoga-stretch": "42-Sports/01-Yoga-Stretching/yoga-stretch.svg",
+        "yoga-stretch-1": "42-Sports/01-Yoga-Stretching/yoga-stretch-1.svg"
+    },
+    "02-Fitness": {
+        "fitness-biceps": "42-Sports/02-Fitness/fitness-biceps.svg",
+        "fitness-bicycle": "42-Sports/02-Fitness/fitness-bicycle.svg",
+        "fitness-bicycle-1": "42-Sports/02-Fitness/fitness-bicycle-1.svg",
+        "fitness-bicycle-2": "42-Sports/02-Fitness/fitness-bicycle-2.svg",
+        "fitness-bicycle-3": "42-Sports/02-Fitness/fitness-bicycle-3.svg",
+        "fitness-dumbbell": "42-Sports/02-Fitness/fitness-dumbbell.svg",
+        "fitness-dumbbell-disk-weight": "42-Sports/02-Fitness/fitness-dumbbell-disk-weight.svg",
+        "fitness-dumbbell-lift": "42-Sports/02-Fitness/fitness-dumbbell-lift.svg",
+        "fitness-dumbells-sizes": "42-Sports/02-Fitness/fitness-dumbells-sizes.svg",
+        "fitness-grip-weights": "42-Sports/02-Fitness/fitness-grip-weights.svg",
+        "fitness-hand-grip": "42-Sports/02-Fitness/fitness-hand-grip.svg",
+        "fitness-heart-rate": "42-Sports/02-Fitness/fitness-heart-rate.svg",
+        "fitness-jumping-rope": "42-Sports/02-Fitness/fitness-jumping-rope.svg",
+        "fitness-jumping-rope-1": "42-Sports/02-Fitness/fitness-jumping-rope-1.svg",
+        "fitness-jumping-rope-2": "42-Sports/02-Fitness/fitness-jumping-rope-2.svg",
+        "fitness-jumping-rope-3": "42-Sports/02-Fitness/fitness-jumping-rope-3.svg",
+        "fitness-machine": "42-Sports/02-Fitness/fitness-machine.svg",
+        "fitness-pilates-ball": "42-Sports/02-Fitness/fitness-pilates-ball.svg",
+        "fitness-protein": "42-Sports/02-Fitness/fitness-protein.svg",
+        "fitness-shaker": "42-Sports/02-Fitness/fitness-shaker.svg",
+        "fitness-six-pack": "42-Sports/02-Fitness/fitness-six-pack.svg",
+        "fitness-slim-waist": "42-Sports/02-Fitness/fitness-slim-waist.svg",
+        "fitness-weighlifting-bench": "42-Sports/02-Fitness/fitness-weighlifting-bench.svg",
+        "fitness-weightlift": "42-Sports/02-Fitness/fitness-weightlift.svg",
+        "fitness-weights": "42-Sports/02-Fitness/fitness-weights.svg"
+    },
+    "03-Soccer": {
+        "soccer-ball": "42-Sports/03-Soccer/soccer-ball.svg",
+        "soccer-field": "42-Sports/03-Soccer/soccer-field.svg",
+        "soccer-goal-net": "42-Sports/03-Soccer/soccer-goal-net.svg",
+        "soccer-goalkeeper-glove-1": "42-Sports/03-Soccer/soccer-goalkeeper-glove-1.svg",
+        "soccer-kick-ball": "42-Sports/03-Soccer/soccer-kick-ball.svg",
+        "soccer-player": "42-Sports/03-Soccer/soccer-player.svg",
+        "soccer-player-ball": "42-Sports/03-Soccer/soccer-player-ball.svg",
+        "soccer-player-kick": "42-Sports/03-Soccer/soccer-player-kick.svg"
+    },
+    "04-Rugby-American-Football": {
+        "american-football-ball": "42-Sports/04-Rugby-American-Football/american-football-ball.svg",
+        "american-football-ball-1": "42-Sports/04-Rugby-American-Football/american-football-ball-1.svg",
+        "american-football-goal": "42-Sports/04-Rugby-American-Football/american-football-goal.svg",
+        "american-football-helmet": "42-Sports/04-Rugby-American-Football/american-football-helmet.svg",
+        "american-football-run-ball": "42-Sports/04-Rugby-American-Football/american-football-run-ball.svg",
+        "american-football-run-ball-1": "42-Sports/04-Rugby-American-Football/american-football-run-ball-1.svg",
+        "american-football-score": "42-Sports/04-Rugby-American-Football/american-football-score.svg"
+    },
+    "05-Baseball-Ball-Games": {
+        "baseball-bat-ball": "42-Sports/05-Baseball-Ball-Games/baseball-bat-ball.svg",
+        "baseball-glove": "42-Sports/05-Baseball-Ball-Games/baseball-glove.svg",
+        "baseball-helmet": "42-Sports/05-Baseball-Ball-Games/baseball-helmet.svg",
+        "baseball-player": "42-Sports/05-Baseball-Ball-Games/baseball-player.svg",
+        "baseball-score": "42-Sports/05-Baseball-Ball-Games/baseball-score.svg",
+        "cricket-bat-ball ": "42-Sports/05-Baseball-Ball-Games/cricket-bat-ball .svg",
+        "croquet-ball-hoop": "42-Sports/05-Baseball-Ball-Games/croquet-ball-hoop.svg",
+        "helmet-sports": "42-Sports/05-Baseball-Ball-Games/helmet-sports.svg",
+        "hockey-puck-stick": "42-Sports/05-Baseball-Ball-Games/hockey-puck-stick.svg"
+    },
+    "06-Basketball-Volleyball": {
+        "basketball-ball": "42-Sports/06-Basketball-Volleyball/basketball-ball.svg",
+        "basketball-ball-dribble-player": "42-Sports/06-Basketball-Volleyball/basketball-ball-dribble-player.svg",
+        "basketball-hoop": "42-Sports/06-Basketball-Volleyball/basketball-hoop.svg",
+        "volleyball-ball": "42-Sports/06-Basketball-Volleyball/volleyball-ball.svg",
+        "volleyball-net": "42-Sports/06-Basketball-Volleyball/volleyball-net.svg",
+        "volleyball-smash": "42-Sports/06-Basketball-Volleyball/volleyball-smash.svg"
+    },
+    "07-Tennis-Badminton": {
+        "badminton-player": "42-Sports/07-Tennis-Badminton/badminton-player.svg",
+        "badminton-shuttlecock": "42-Sports/07-Tennis-Badminton/badminton-shuttlecock.svg",
+        "badminton-shuttlecock-racquet": "42-Sports/07-Tennis-Badminton/badminton-shuttlecock-racquet.svg",
+        "ping-pong-paddle": "42-Sports/07-Tennis-Badminton/ping-pong-paddle.svg",
+        "ping-pong-player": "42-Sports/07-Tennis-Badminton/ping-pong-player.svg",
+        "ping-pong-table": "42-Sports/07-Tennis-Badminton/ping-pong-table.svg",
+        "tennis-backhand": "42-Sports/07-Tennis-Badminton/tennis-backhand.svg",
+        "tennis-ball": "42-Sports/07-Tennis-Badminton/tennis-ball.svg",
+        "tennis-forehand": "42-Sports/07-Tennis-Badminton/tennis-forehand.svg",
+        "tennis-net": "42-Sports/07-Tennis-Badminton/tennis-net.svg",
+        "tennis-player": "42-Sports/07-Tennis-Badminton/tennis-player.svg",
+        "tennis-racquet": "42-Sports/07-Tennis-Badminton/tennis-racquet.svg",
+        "tennis-racquet-ball": "42-Sports/07-Tennis-Badminton/tennis-racquet-ball.svg"
+    },
+    "08-Golf": {
+        "golf-ball": "42-Sports/08-Golf/golf-ball.svg",
+        "golf-cart": "42-Sports/08-Golf/golf-cart.svg",
+        "golf-equipment": "42-Sports/08-Golf/golf-equipment.svg",
+        "golf-hole": "42-Sports/08-Golf/golf-hole.svg",
+        "golf-hole-1": "42-Sports/08-Golf/golf-hole-1.svg",
+        "golf-hole-aim": "42-Sports/08-Golf/golf-hole-aim.svg",
+        "golf-hole-ball": "42-Sports/08-Golf/golf-hole-ball.svg",
+        "golf-player": "42-Sports/08-Golf/golf-player.svg"
+    },
+    "09-Bowling": {
+        "bowling-pins": "42-Sports/09-Bowling/bowling-pins.svg",
+        "bowling-player": "42-Sports/09-Bowling/bowling-player.svg",
+        "bowling-set": "42-Sports/09-Bowling/bowling-set.svg"
+    },
+    "10-Pool": {
+        "pool-ball": "42-Sports/10-Pool/pool-ball.svg",
+        "pool-black-ball": "42-Sports/10-Pool/pool-black-ball.svg",
+        "pool-player": "42-Sports/10-Pool/pool-player.svg",
+        "pool-player-table": "42-Sports/10-Pool/pool-player-table.svg",
+        "pool-table": "42-Sports/10-Pool/pool-table.svg",
+        "pool-triangle": "42-Sports/10-Pool/pool-triangle.svg"
+    },
+    "11-Biking": {
+        "biking-helmet": "42-Sports/11-Biking/biking-helmet.svg",
+        "biking-helmet-person": "42-Sports/11-Biking/biking-helmet-person.svg",
+        "biking-learner": "42-Sports/11-Biking/biking-learner.svg",
+        "biking-mountain": "42-Sports/11-Biking/biking-mountain.svg",
+        "biking-person": "42-Sports/11-Biking/biking-person.svg"
+    },
+    "12-Archery": {
+        "archery-bow": "42-Sports/12-Archery/archery-bow.svg",
+        "archery-bow-1": "42-Sports/12-Archery/archery-bow-1.svg",
+        "archery-person": "42-Sports/12-Archery/archery-person.svg"
+    },
+    "13-Shooting": {
+        "shooting-rifle": "42-Sports/13-Shooting/shooting-rifle.svg",
+        "shooting-rifle-aim": "42-Sports/13-Shooting/shooting-rifle-aim.svg",
+        "shooting-rifle-person-aim": "42-Sports/13-Shooting/shooting-rifle-person-aim.svg",
+        "shooting-rifle-target": "42-Sports/13-Shooting/shooting-rifle-target.svg",
+        "shooting-target": "42-Sports/13-Shooting/shooting-target.svg"
+    },
+    "14-Gymnastics": {
+        "gymnastics-acrobatic": "42-Sports/14-Gymnastics/gymnastics-acrobatic.svg",
+        "gymnastics-acrobatic-1": "42-Sports/14-Gymnastics/gymnastics-acrobatic-1.svg",
+        "gymnastics-acrobatic-hanging": "42-Sports/14-Gymnastics/gymnastics-acrobatic-hanging.svg",
+        "gymnastics-acrobatic-hanging-1": "42-Sports/14-Gymnastics/gymnastics-acrobatic-hanging-1.svg",
+        "gymnastics-acrobatic-hanging-2": "42-Sports/14-Gymnastics/gymnastics-acrobatic-hanging-2.svg",
+        "gymnastics-acrobatic-hanging-person": "42-Sports/14-Gymnastics/gymnastics-acrobatic-hanging-person.svg",
+        "gymnastics-horse": "42-Sports/14-Gymnastics/gymnastics-horse.svg",
+        "gymnastics-jump": "42-Sports/14-Gymnastics/gymnastics-jump.svg",
+        "gymnastics-rhythmic-ribbon": "42-Sports/14-Gymnastics/gymnastics-rhythmic-ribbon.svg",
+        "gymnastics-rhythmic-ribbon-1": "42-Sports/14-Gymnastics/gymnastics-rhythmic-ribbon-1.svg",
+        "gymnastics-ribbon-person": "42-Sports/14-Gymnastics/gymnastics-ribbon-person.svg",
+        "gymnastics-ribbon-person-1": "42-Sports/14-Gymnastics/gymnastics-ribbon-person-1.svg",
+        "gymnastics-ribbon-person-2": "42-Sports/14-Gymnastics/gymnastics-ribbon-person-2.svg",
+        "gymnastics-trampoline": "42-Sports/14-Gymnastics/gymnastics-trampoline.svg",
+        "gymnastics-weightlifting": "42-Sports/14-Gymnastics/gymnastics-weightlifting.svg"
+    },
+    "15-Athletics": {
+        "athletics-discus-throwing": "42-Sports/15-Athletics/athletics-discus-throwing.svg",
+        "athletics-javelin-throwing": "42-Sports/15-Athletics/athletics-javelin-throwing.svg",
+        "athletics-jumping": "42-Sports/15-Athletics/athletics-jumping.svg",
+        "athletics-jumping-person": "42-Sports/15-Athletics/athletics-jumping-person.svg",
+        "athletics-long-jumping": "42-Sports/15-Athletics/athletics-long-jumping.svg",
+        "athletics-pole-vault": "42-Sports/15-Athletics/athletics-pole-vault.svg",
+        "athletics-running": "42-Sports/15-Athletics/athletics-running.svg",
+        "athletics-running-1": "42-Sports/15-Athletics/athletics-running-1.svg",
+        "athletics-shooting": "42-Sports/15-Athletics/athletics-shooting.svg",
+        "athletics-team-running": "42-Sports/15-Athletics/athletics-team-running.svg"
+    },
+    "16-Swimming": {
+        "swimming-cap": "42-Sports/16-Swimming/swimming-cap.svg",
+        "swimming-cap-1": "42-Sports/16-Swimming/swimming-cap-1.svg",
+        "swimming-diving": "42-Sports/16-Swimming/swimming-diving.svg",
+        "swimming-diving-board": "42-Sports/16-Swimming/swimming-diving-board.svg",
+        "swimming-goggles": "42-Sports/16-Swimming/swimming-goggles.svg",
+        "swimming-jump": "42-Sports/16-Swimming/swimming-jump.svg",
+        "swimming-lifeguard": "42-Sports/16-Swimming/swimming-lifeguard.svg",
+        "swimming-waterpolo": "42-Sports/16-Swimming/swimming-waterpolo.svg"
+    },
+    "17-Skiing": {
+        "skating": "42-Sports/17-Skiing/skating.svg",
+        "skating-1": "42-Sports/17-Skiing/skating-1.svg",
+        "ski-jumping": "42-Sports/17-Skiing/ski-jumping.svg",
+        "skiing-board-slide": "42-Sports/17-Skiing/skiing-board-slide.svg",
+        "skiing-bobsled": "42-Sports/17-Skiing/skiing-bobsled.svg",
+        "skiing-cable-car": "42-Sports/17-Skiing/skiing-cable-car.svg",
+        "skiing-cable-car-1": "42-Sports/17-Skiing/skiing-cable-car-1.svg",
+        "skiing-chest-slide": "42-Sports/17-Skiing/skiing-chest-slide.svg",
+        "skiing-cross-country": "42-Sports/17-Skiing/skiing-cross-country.svg",
+        "skiing-cross-country-1": "42-Sports/17-Skiing/skiing-cross-country-1.svg",
+        "skiing-ice-skates": "42-Sports/17-Skiing/skiing-ice-skates.svg",
+        "skiing-skiis": "42-Sports/17-Skiing/skiing-skiis.svg",
+        "skiing-slide-down": "42-Sports/17-Skiing/skiing-slide-down.svg",
+        "skiing-snow-scooter": "42-Sports/17-Skiing/skiing-snow-scooter.svg",
+        "skiing-snow-scooter-person": "42-Sports/17-Skiing/skiing-snow-scooter-person.svg",
+        "skiing-snowboard": "42-Sports/17-Skiing/skiing-snowboard.svg"
+    },
+    "18-Boxing": {
+        "boxing-bag": "42-Sports/18-Boxing/boxing-bag.svg",
+        "boxing-bag-hanging": "42-Sports/18-Boxing/boxing-bag-hanging.svg",
+        "boxing-bag-small": "42-Sports/18-Boxing/boxing-bag-small.svg",
+        "boxing-boxer": "42-Sports/18-Boxing/boxing-boxer.svg",
+        "boxing-boxer-bag": "42-Sports/18-Boxing/boxing-boxer-bag.svg",
+        "boxing-glove": "42-Sports/18-Boxing/boxing-glove.svg",
+        "boxing-head-guard": "42-Sports/18-Boxing/boxing-head-guard.svg"
+    },
+    "19-Skateboard-Rollerblades": {
+        "rollerblades": "42-Sports/19-Skateboard-Rollerblades/rollerblades.svg",
+        "rollerblades-person": "42-Sports/19-Skateboard-Rollerblades/rollerblades-person.svg",
+        "skateboard": "42-Sports/19-Skateboard-Rollerblades/skateboard.svg",
+        "skateboard-1": "42-Sports/19-Skateboard-Rollerblades/skateboard-1.svg",
+        "skateboard-person": "42-Sports/19-Skateboard-Rollerblades/skateboard-person.svg",
+        "skateboard-person-1": "42-Sports/19-Skateboard-Rollerblades/skateboard-person-1.svg",
+        "skating-shoes": "42-Sports/19-Skateboard-Rollerblades/skating-shoes.svg"
+    },
+    "20-Martial-Arts": {
+        "martial-arts-fencing": "42-Sports/20-Martial-Arts/martial-arts-fencing.svg",
+        "martial-arts-fencing-person": "42-Sports/20-Martial-Arts/martial-arts-fencing-person.svg",
+        "martial-arts-helmet": "42-Sports/20-Martial-Arts/martial-arts-helmet.svg",
+        "martial-arts-karate": "42-Sports/20-Martial-Arts/martial-arts-karate.svg",
+        "martial-arts-kimono": "42-Sports/20-Martial-Arts/martial-arts-kimono.svg",
+        "martial-arts-mask-helmet": "42-Sports/20-Martial-Arts/martial-arts-mask-helmet.svg",
+        "martial-arts-sumo": "42-Sports/20-Martial-Arts/martial-arts-sumo.svg",
+        "martial-arts-sword-fencing": "42-Sports/20-Martial-Arts/martial-arts-sword-fencing.svg",
+        "martial-arts-sword-fencing-1": "42-Sports/20-Martial-Arts/martial-arts-sword-fencing-1.svg",
+        "martial-arts-swords": "42-Sports/20-Martial-Arts/martial-arts-swords.svg"
+    },
+    "21-Dancing": {
+        "dancing-ballet": "42-Sports/21-Dancing/dancing-ballet.svg",
+        "dancing-ballet-dress": "42-Sports/21-Dancing/dancing-ballet-dress.svg"
+    },
+    "22-Climbing-Speleology": {
+        "climbing-head-light": "42-Sports/22-Climbing-Speleology/climbing-head-light.svg",
+        "climbing-mountain": "42-Sports/22-Climbing-Speleology/climbing-mountain.svg",
+        "climbing-sports": "42-Sports/22-Climbing-Speleology/climbing-sports.svg"
+    },
+    "23-Various-Sport": {
+        "sport-curling": "42-Sports/23-Various-Sport/sport-curling.svg",
+        "sport-curling-1": "42-Sports/23-Various-Sport/sport-curling-1.svg",
+        "sport-hockey": "42-Sports/23-Various-Sport/sport-hockey.svg",
+        "sport-horse-riding": "42-Sports/23-Various-Sport/sport-horse-riding.svg",
+        "sport-paragliding": "42-Sports/23-Various-Sport/sport-paragliding.svg"
+    },
+    "24-Olympics-Paralympics-Games": {
+        "olympics-torch": "42-Sports/24-Olympics-Paralympics-Games/olympics-torch.svg",
+        "paralympics-archery": "42-Sports/24-Olympics-Paralympics-Games/paralympics-archery.svg",
+        "paralympics-ball": "42-Sports/24-Olympics-Paralympics-Games/paralympics-ball.svg",
+        "paralympics-discus-throwing": "42-Sports/24-Olympics-Paralympics-Games/paralympics-discus-throwing.svg",
+        "paralympics-fencing": "42-Sports/24-Olympics-Paralympics-Games/paralympics-fencing.svg",
+        "paralympics-flag": "42-Sports/24-Olympics-Paralympics-Games/paralympics-flag.svg",
+        "paralympics-football": "42-Sports/24-Olympics-Paralympics-Games/paralympics-football.svg",
+        "paralympics-javelin-throwing": "42-Sports/24-Olympics-Paralympics-Games/paralympics-javelin-throwing.svg",
+        "paralympics-race": "42-Sports/24-Olympics-Paralympics-Games/paralympics-race.svg",
+        "paralympics-race-1": "42-Sports/24-Olympics-Paralympics-Games/paralympics-race-1.svg",
+        "paralympics-racing": "42-Sports/24-Olympics-Paralympics-Games/paralympics-racing.svg",
+        "paralympics-running": "42-Sports/24-Olympics-Paralympics-Games/paralympics-running.svg",
+        "paralympics-swimming": "42-Sports/24-Olympics-Paralympics-Games/paralympics-swimming.svg",
+        "paralympics-tennis": "42-Sports/24-Olympics-Paralympics-Games/paralympics-tennis.svg",
+        "paralympics-torch": "42-Sports/24-Olympics-Paralympics-Games/paralympics-torch.svg",
+        "paralympics-weightlifting": "42-Sports/24-Olympics-Paralympics-Games/paralympics-weightlifting.svg"
+    }
+}

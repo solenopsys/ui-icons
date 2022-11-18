@@ -1,0 +1,297 @@
+{
+    "01-Medical-Symbol": {
+        "medical-hospital": "35-Health-Beauty/01-Medical-Symbol/medical-hospital.svg",
+        "medical-hospital-1": "35-Health-Beauty/01-Medical-Symbol/medical-hospital-1.svg",
+        "medical-hospital-2": "35-Health-Beauty/01-Medical-Symbol/medical-hospital-2.svg",
+        "medical-ribbon-cancer": "35-Health-Beauty/01-Medical-Symbol/medical-ribbon-cancer.svg"
+    },
+    "02-Hospital": {
+        "hospital-board": "35-Health-Beauty/02-Hospital/hospital-board.svg",
+        "hospital-building": "35-Health-Beauty/02-Hospital/hospital-building.svg",
+        "hospital-building-1": "35-Health-Beauty/02-Hospital/hospital-building-1.svg",
+        "hospital-first-aid": "35-Health-Beauty/02-Hospital/hospital-first-aid.svg",
+        "hospital-house": "35-Health-Beauty/02-Hospital/hospital-house.svg",
+        "hospital-shield": "35-Health-Beauty/02-Hospital/hospital-shield.svg",
+        "hospital-sign": "35-Health-Beauty/02-Hospital/hospital-sign.svg",
+        "hospital-sign-circle": "35-Health-Beauty/02-Hospital/hospital-sign-circle.svg",
+        "hospital-sign-square": "35-Health-Beauty/02-Hospital/hospital-sign-square.svg"
+    },
+    "03-Hospital-Bedrooms": {
+        "hospital-bedroom": "35-Health-Beauty/03-Hospital-Bedrooms/hospital-bedroom.svg",
+        "hospital-bedroom-graph": "35-Health-Beauty/03-Hospital-Bedrooms/hospital-bedroom-graph.svg",
+        "hospital-bedroom-nurse": "35-Health-Beauty/03-Hospital-Bedrooms/hospital-bedroom-nurse.svg",
+        "hospital-shower": "35-Health-Beauty/03-Hospital-Bedrooms/hospital-shower.svg"
+    },
+    "04-Ambulance": {
+        "ambulance-call": "35-Health-Beauty/04-Ambulance/ambulance-call.svg",
+        "ambulance-car": "35-Health-Beauty/04-Ambulance/ambulance-car.svg",
+        "ambulance-cross": "35-Health-Beauty/04-Ambulance/ambulance-cross.svg",
+        "ambulance-helicopter": "35-Health-Beauty/04-Ambulance/ambulance-helicopter.svg",
+        "ambulance-human": "35-Health-Beauty/04-Ambulance/ambulance-human.svg"
+    },
+    "05-Insurance-Protection": {
+        "insurance-card": "35-Health-Beauty/05-Insurance-Protection/insurance-card.svg",
+        "insurance-cheap": "35-Health-Beauty/05-Insurance-Protection/insurance-cheap.svg",
+        "insurance-expensive": "35-Health-Beauty/05-Insurance-Protection/insurance-expensive.svg",
+        "insurance-hand": "35-Health-Beauty/05-Insurance-Protection/insurance-hand.svg",
+        "insurance-hands": "35-Health-Beauty/05-Insurance-Protection/insurance-hands.svg",
+        "insurance-head": "35-Health-Beauty/05-Insurance-Protection/insurance-head.svg",
+        "insurance-umbrella-heart": "35-Health-Beauty/05-Insurance-Protection/insurance-umbrella-heart.svg"
+    },
+    "06-Medical-Files": {
+        "medical-file": "35-Health-Beauty/06-Medical-Files/medical-file.svg",
+        "medical-folder": "35-Health-Beauty/06-Medical-Files/medical-folder.svg",
+        "medical-notes": "35-Health-Beauty/06-Medical-Files/medical-notes.svg"
+    },
+    "07-Monitoring": {
+        "monitor-heart-beat": "35-Health-Beauty/07-Monitoring/monitor-heart-beat.svg",
+        "monitor-heart-beat-search": "35-Health-Beauty/07-Monitoring/monitor-heart-beat-search.svg",
+        "monitor-heart-beat-touch": "35-Health-Beauty/07-Monitoring/monitor-heart-beat-touch.svg",
+        "monitor-heart-desktop": "35-Health-Beauty/07-Monitoring/monitor-heart-desktop.svg",
+        "monitor-heart-notes": "35-Health-Beauty/07-Monitoring/monitor-heart-notes.svg",
+        "monitor-heart-rate": "35-Health-Beauty/07-Monitoring/monitor-heart-rate.svg",
+        "monitor-heart-rate-1": "35-Health-Beauty/07-Monitoring/monitor-heart-rate-1.svg",
+        "monitor-heart-rate-up": "35-Health-Beauty/07-Monitoring/monitor-heart-rate-up.svg"
+    },
+    "08-Medical-Apps": {
+        "medical-app-laptop": "35-Health-Beauty/08-Medical-Apps/medical-app-laptop.svg",
+        "medical-app-laptop-1": "35-Health-Beauty/08-Medical-Apps/medical-app-laptop-1.svg",
+        "medical-app-smartphone": "35-Health-Beauty/08-Medical-Apps/medical-app-smartphone.svg",
+        "medical-app-smartphone-1": "35-Health-Beauty/08-Medical-Apps/medical-app-smartphone-1.svg",
+        "medical-app-smartphone-listen": "35-Health-Beauty/08-Medical-Apps/medical-app-smartphone-listen.svg",
+        "medical-app-smartphone-touch": "35-Health-Beauty/08-Medical-Apps/medical-app-smartphone-touch.svg",
+        "medical-app-tablet": "35-Health-Beauty/08-Medical-Apps/medical-app-tablet.svg"
+    },
+    "09-Drugs-Medication": {
+        "drugs-box": "35-Health-Beauty/09-Drugs-Medication/drugs-box.svg",
+        "drugs-cannabis": "35-Health-Beauty/09-Drugs-Medication/drugs-cannabis.svg",
+        "drugs-pill": "35-Health-Beauty/09-Drugs-Medication/drugs-pill.svg",
+        "drugs-pills-box": "35-Health-Beauty/09-Drugs-Medication/drugs-pills-box.svg",
+        "drugs-powder": "35-Health-Beauty/09-Drugs-Medication/drugs-powder.svg",
+        "drugs-sheet": "35-Health-Beauty/09-Drugs-Medication/drugs-sheet.svg",
+        "drugs-syrup": "35-Health-Beauty/09-Drugs-Medication/drugs-syrup.svg",
+        "mortar-pestle": "35-Health-Beauty/09-Drugs-Medication/mortar-pestle.svg",
+        "pill": "35-Health-Beauty/09-Drugs-Medication/pill.svg",
+        "pill-clock": "35-Health-Beauty/09-Drugs-Medication/pill-clock.svg",
+        "pill-laptop": "35-Health-Beauty/09-Drugs-Medication/pill-laptop.svg"
+    },
+    "10-Bandages-Casts": {
+        "bandage": "35-Health-Beauty/10-Bandages-Casts/bandage.svg",
+        "bandage-finger": "35-Health-Beauty/10-Bandages-Casts/bandage-finger.svg",
+        "bandage-finger-bleed": "35-Health-Beauty/10-Bandages-Casts/bandage-finger-bleed.svg",
+        "bandage-leg": "35-Health-Beauty/10-Bandages-Casts/bandage-leg.svg",
+        "bandage-leg-hanging": "35-Health-Beauty/10-Bandages-Casts/bandage-leg-hanging.svg",
+        "bandage-leg-hanging-hospital": "35-Health-Beauty/10-Bandages-Casts/bandage-leg-hanging-hospital.svg",
+        "bandage-shoulder": "35-Health-Beauty/10-Bandages-Casts/bandage-shoulder.svg"
+    },
+    "11-Medical-Instruments": {
+        "medical-instrument": "35-Health-Beauty/11-Medical-Instruments/medical-instrument.svg",
+        "medical-instrument-ambulance-bed": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-ambulance-bed.svg",
+        "medical-instrument-ambulance-bed-1": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-ambulance-bed-1.svg",
+        "medical-instrument-sampler": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-sampler.svg",
+        "medical-instrument-scalpel": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-scalpel.svg",
+        "medical-instrument-scalpel-cut": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-scalpel-cut.svg",
+        "medical-instrument-stethoscope": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-stethoscope.svg",
+        "medical-instrument-syringe": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-syringe.svg",
+        "medical-instrument-syringe-1": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-syringe-1.svg",
+        "medical-instrument-tooth": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-tooth.svg",
+        "medical-instrument-tweezers": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-tweezers.svg",
+        "medical-instrument-tweezers-1": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-tweezers-1.svg",
+        "medical-instrument-tweezers-2": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-tweezers-2.svg",
+        "medical-instrument-tweezers-3": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-tweezers-3.svg",
+        "medical-instrument-walking-aid": "35-Health-Beauty/11-Medical-Instruments/medical-instrument-walking-aid.svg"
+    },
+    "12-Radiology-Scanner": {
+        "radiology-scan": "35-Health-Beauty/12-Radiology-Scanner/radiology-scan.svg",
+        "radiology-scan-doctor": "35-Health-Beauty/12-Radiology-Scanner/radiology-scan-doctor.svg",
+        "radiology-scan-hand": "35-Health-Beauty/12-Radiology-Scanner/radiology-scan-hand.svg",
+        "radiology-scan-mri": "35-Health-Beauty/12-Radiology-Scanner/radiology-scan-mri.svg",
+        "radiology-scanner": "35-Health-Beauty/12-Radiology-Scanner/radiology-scanner.svg",
+        "radiology-scanning": "35-Health-Beauty/12-Radiology-Scanner/radiology-scanning.svg"
+    },
+    "13-Medical-Personnel": {
+        "medical-personnel": "35-Health-Beauty/13-Medical-Personnel/medical-personnel.svg",
+        "medical-personnel-doctor": "35-Health-Beauty/13-Medical-Personnel/medical-personnel-doctor.svg",
+        "medical-personnel-hat": "35-Health-Beauty/13-Medical-Personnel/medical-personnel-hat.svg",
+        "medical-personnel-nurse": "35-Health-Beauty/13-Medical-Personnel/medical-personnel-nurse.svg"
+    },
+    "14-Waitingroom-Appointment": {
+        "medical-room-clock-man": "35-Health-Beauty/14-Waitingroom-Appointment/medical-room-clock-man.svg",
+        "medical-room-clock-woman": "35-Health-Beauty/14-Waitingroom-Appointment/medical-room-clock-woman.svg",
+        "medical-room-wait": "35-Health-Beauty/14-Waitingroom-Appointment/medical-room-wait.svg"
+    },
+    "15-Medical-Conditions": {
+        "medical-condition-cough": "35-Health-Beauty/15-Medical-Conditions/medical-condition-cough.svg",
+        "medical-condition-flu": "35-Health-Beauty/15-Medical-Conditions/medical-condition-flu.svg",
+        "medical-condition-head-dizziness": "35-Health-Beauty/15-Medical-Conditions/medical-condition-head-dizziness.svg",
+        "medical-condition-head-pain": "35-Health-Beauty/15-Medical-Conditions/medical-condition-head-pain.svg",
+        "medical-condition-sore-throat": "35-Health-Beauty/15-Medical-Conditions/medical-condition-sore-throat.svg",
+        "medical-condition-throat-problem": "35-Health-Beauty/15-Medical-Conditions/medical-condition-throat-problem.svg"
+    },
+    "16-Transfusions": {
+        "transfusion-bag": "35-Health-Beauty/16-Transfusions/transfusion-bag.svg",
+        "transfusion-bag-1": "35-Health-Beauty/16-Transfusions/transfusion-bag-1.svg",
+        "transfusion-bag-hang": "35-Health-Beauty/16-Transfusions/transfusion-bag-hang.svg",
+        "transfusion-human": "35-Health-Beauty/16-Transfusions/transfusion-human.svg",
+        "transfusion-water": "35-Health-Beauty/16-Transfusions/transfusion-water.svg"
+    },
+    "17-Blood": {
+        "blood-drop": "35-Health-Beauty/17-Blood/blood-drop.svg",
+        "blood-drop-elements": "35-Health-Beauty/17-Blood/blood-drop-elements.svg",
+        "blood-drop-search": "35-Health-Beauty/17-Blood/blood-drop-search.svg",
+        "blood-drop-type-a": "35-Health-Beauty/17-Blood/blood-drop-type-a.svg",
+        "blood-drop-type-ab": "35-Health-Beauty/17-Blood/blood-drop-type-ab.svg",
+        "blood-drop-type-b": "35-Health-Beauty/17-Blood/blood-drop-type-b.svg",
+        "blood-drop-type-negative": "35-Health-Beauty/17-Blood/blood-drop-type-negative.svg",
+        "blood-drop-type-o": "35-Health-Beauty/17-Blood/blood-drop-type-o.svg",
+        "blood-drop-type-positive": "35-Health-Beauty/17-Blood/blood-drop-type-positive.svg",
+        "blood-drops-positive": "35-Health-Beauty/17-Blood/blood-drops-positive.svg"
+    },
+    "18-Medical-Specialties": {
+        "medical-specialty": "35-Health-Beauty/18-Medical-Specialties/medical-specialty.svg",
+        "medical-specialty-back": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-back.svg",
+        "medical-specialty-breathing": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-breathing.svg",
+        "medical-specialty-broken-bone": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-broken-bone.svg",
+        "medical-specialty-ear": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-ear.svg",
+        "medical-specialty-eye": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-eye.svg",
+        "medical-specialty-feet": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-feet.svg",
+        "medical-specialty-hearing": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-hearing.svg",
+        "medical-specialty-hearing-1": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-hearing-1.svg",
+        "medical-specialty-heart": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-heart.svg",
+        "medical-specialty-intestine": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-intestine.svg",
+        "medical-specialty-knee": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-knee.svg",
+        "medical-specialty-knee-1": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-knee-1.svg",
+        "medical-specialty-liver": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-liver.svg",
+        "medical-specialty-lungs": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-lungs.svg",
+        "medical-specialty-nose": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-nose.svg",
+        "medical-specialty-optometrist": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-optometrist.svg",
+        "medical-specialty-pregnancy": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-pregnancy.svg",
+        "medical-specialty-rehabilitation": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-rehabilitation.svg",
+        "medical-specialty-skin": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-skin.svg",
+        "medical-specialty-stomach": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-stomach.svg",
+        "medical-specialty-vertebra": "35-Health-Beauty/18-Medical-Specialties/medical-specialty-vertebra.svg"
+    },
+    "19-Dentistry": {
+        "dentistry-tooth": "35-Health-Beauty/19-Dentistry/dentistry-tooth.svg",
+        "dentistry-tooth-brush": "35-Health-Beauty/19-Dentistry/dentistry-tooth-brush.svg",
+        "dentistry-tooth-check": "35-Health-Beauty/19-Dentistry/dentistry-tooth-check.svg",
+        "dentistry-tooth-chipped": "35-Health-Beauty/19-Dentistry/dentistry-tooth-chipped.svg",
+        "dentistry-tooth-chipped-1": "35-Health-Beauty/19-Dentistry/dentistry-tooth-chipped-1.svg",
+        "dentistry-tooth-equipment": "35-Health-Beauty/19-Dentistry/dentistry-tooth-equipment.svg",
+        "dentistry-tooth-exchange": "35-Health-Beauty/19-Dentistry/dentistry-tooth-exchange.svg",
+        "dentistry-tooth-hook": "35-Health-Beauty/19-Dentistry/dentistry-tooth-hook.svg",
+        "dentistry-tooth-jaws": "35-Health-Beauty/19-Dentistry/dentistry-tooth-jaws.svg",
+        "dentistry-tooth-mirror": "35-Health-Beauty/19-Dentistry/dentistry-tooth-mirror.svg",
+        "dentistry-tooth-remove": "35-Health-Beauty/19-Dentistry/dentistry-tooth-remove.svg",
+        "dentistry-tooth-search": "35-Health-Beauty/19-Dentistry/dentistry-tooth-search.svg",
+        "dentistry-tooth-shield": "35-Health-Beauty/19-Dentistry/dentistry-tooth-shield.svg",
+        "dentistry-tooth-shield-1": "35-Health-Beauty/19-Dentistry/dentistry-tooth-shield-1.svg"
+    },
+    "20-Labatory-Tests": {
+        "laboratory-test-blood": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-blood.svg",
+        "laboratory-test-blood-sugar": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-blood-sugar.svg",
+        "laboratory-test-blood=finger": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-blood=finger.svg",
+        "laboratory-test-stool": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-stool.svg",
+        "laboratory-test-stool-cup": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-stool-cup.svg",
+        "laboratory-test-stool-cup-1": "35-Health-Beauty/20-Labatory-Tests/laboratory-test-stool-cup-1.svg"
+    },
+    "21-Labatory": {
+        "laboratory-chromosome": "35-Health-Beauty/21-Labatory/laboratory-chromosome.svg",
+        "laboratory-sample": "35-Health-Beauty/21-Labatory/laboratory-sample.svg",
+        "laboratory-sperm": "35-Health-Beauty/21-Labatory/laboratory-sperm.svg"
+    },
+    "22-Medical-Nanobots": {
+        "medical-nanobot-blood": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-blood.svg",
+        "medical-nanobot-heart": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-heart.svg",
+        "medical-nanobot-lungs": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-lungs.svg",
+        "medical-nanobot-pill": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-pill.svg",
+        "medical-nanobot-search": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-search.svg",
+        "medical-nanobot-syringe": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobot-syringe.svg",
+        "medical-nanobots": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobots.svg",
+        "medical-nanobots-1": "35-Health-Beauty/22-Medical-Nanobots/medical-nanobots-1.svg"
+    },
+    "23-Medical-Technologic-Advances": {
+        "technology-bandage-chip": "35-Health-Beauty/23-Medical-Technologic-Advances/technology-bandage-chip.svg",
+        "technology-chip-hold": "35-Health-Beauty/23-Medical-Technologic-Advances/technology-chip-hold.svg",
+        "technology-hand-chip": "35-Health-Beauty/23-Medical-Technologic-Advances/technology-hand-chip.svg",
+        "technology-pill": "35-Health-Beauty/23-Medical-Technologic-Advances/technology-pill.svg",
+        "technology-prosthetic-leg": "35-Health-Beauty/23-Medical-Technologic-Advances/technology-prosthetic-leg.svg"
+    },
+    "24-Fertility-Pregnancy": {
+        "pregnancy-condom": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-condom.svg",
+        "pregnancy-eggs": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-eggs.svg",
+        "pregnancy-sperm": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-sperm.svg",
+        "pregnancy-sperm-1": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-sperm-1.svg",
+        "pregnancy-ultrasound": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-ultrasound.svg",
+        "pregnancy-ultrasound-baby": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-ultrasound-baby.svg",
+        "pregnancy-vgr": "35-Health-Beauty/24-Fertility-Pregnancy/pregnancy-vgr.svg"
+    },
+    "25-Dietetics": {
+        "diet-health": "35-Health-Beauty/25-Dietetics/diet-health.svg",
+        "diet-scale": "35-Health-Beauty/25-Dietetics/diet-scale.svg",
+        "diet-waist": "35-Health-Beauty/25-Dietetics/diet-waist.svg",
+        "diet-waist-1": "35-Health-Beauty/25-Dietetics/diet-waist-1.svg"
+    },
+    "26-Brain": {
+        "brain-head": "35-Health-Beauty/26-Brain/brain-head.svg",
+        "brain-head-1": "35-Health-Beauty/26-Brain/brain-head-1.svg",
+        "brain-network": "35-Health-Beauty/26-Brain/brain-network.svg",
+        "brain-open-skill": "35-Health-Beauty/26-Brain/brain-open-skill.svg"
+    },
+    "27-Hair": {
+        "hair-skin": "35-Health-Beauty/27-Hair/hair-skin.svg",
+        "hair-skin-1": "35-Health-Beauty/27-Hair/hair-skin-1.svg",
+        "hair-under-skin": "35-Health-Beauty/27-Hair/hair-under-skin.svg"
+    },
+    "28-Bodycare": {
+        "body-care-cream": "35-Health-Beauty/28-Bodycare/body-care-cream.svg",
+        "body-care-eye-mask": "35-Health-Beauty/28-Bodycare/body-care-eye-mask.svg",
+        "body-care-lotion": "35-Health-Beauty/28-Bodycare/body-care-lotion.svg",
+        "body-care-mask": "35-Health-Beauty/28-Bodycare/body-care-mask.svg",
+        "body-care-perfume": "35-Health-Beauty/28-Bodycare/body-care-perfume.svg",
+        "body-care-perfume-1": "35-Health-Beauty/28-Bodycare/body-care-perfume-1.svg",
+        "body-care-snail": "35-Health-Beauty/28-Bodycare/body-care-snail.svg",
+        "body-care-soap": "35-Health-Beauty/28-Bodycare/body-care-soap.svg",
+        "body-care-sun-cream": "35-Health-Beauty/28-Bodycare/body-care-sun-cream.svg",
+        "body-care-sun-lotion": "35-Health-Beauty/28-Bodycare/body-care-sun-lotion.svg",
+        "body-care-toothbrush": "35-Health-Beauty/28-Bodycare/body-care-toothbrush.svg",
+        "body-care-toothbrush-paste": "35-Health-Beauty/28-Bodycare/body-care-toothbrush-paste.svg",
+        "body-care-water-hand": "35-Health-Beauty/28-Bodycare/body-care-water-hand.svg",
+        "body-care-water-hand-1": "35-Health-Beauty/28-Bodycare/body-care-water-hand-1.svg"
+    },
+    "29-Makeup": {
+        "make-up-brush": "35-Health-Beauty/29-Makeup/make-up-brush.svg",
+        "make-up-brush-set": "35-Health-Beauty/29-Makeup/make-up-brush-set.svg",
+        "make-up-eye": "35-Health-Beauty/29-Makeup/make-up-eye.svg",
+        "make-up-hand-mirror": "35-Health-Beauty/29-Makeup/make-up-hand-mirror.svg",
+        "make-up-lipstick": "35-Health-Beauty/29-Makeup/make-up-lipstick.svg",
+        "make-up-lipstick-1": "35-Health-Beauty/29-Makeup/make-up-lipstick-1.svg",
+        "make-up-mascara": "35-Health-Beauty/29-Makeup/make-up-mascara.svg",
+        "make-up-mascara-small": "35-Health-Beauty/29-Makeup/make-up-mascara-small.svg",
+        "make-up-mirror": "35-Health-Beauty/29-Makeup/make-up-mirror.svg",
+        "make-up-mirror-1": "35-Health-Beauty/29-Makeup/make-up-mirror-1.svg",
+        "make-up-nail-polisher": "35-Health-Beauty/29-Makeup/make-up-nail-polisher.svg",
+        "make-up-powder-tap": "35-Health-Beauty/29-Makeup/make-up-powder-tap.svg",
+        "make-up-table-mirror": "35-Health-Beauty/29-Makeup/make-up-table-mirror.svg"
+    },
+    "30-Hair-Dress": {
+        "hair-dress-barber": "35-Health-Beauty/30-Hair-Dress/hair-dress-barber.svg",
+        "hair-dress-bobby-pin": "35-Health-Beauty/30-Hair-Dress/hair-dress-bobby-pin.svg",
+        "hair-dress-brush": "35-Health-Beauty/30-Hair-Dress/hair-dress-brush.svg",
+        "hair-dress-chair": "35-Health-Beauty/30-Hair-Dress/hair-dress-chair.svg",
+        "hair-dress-chair-1": "35-Health-Beauty/30-Hair-Dress/hair-dress-chair-1.svg",
+        "hair-dress-comb": "35-Health-Beauty/30-Hair-Dress/hair-dress-comb.svg",
+        "hair-dress-comb-1": "35-Health-Beauty/30-Hair-Dress/hair-dress-comb-1.svg",
+        "hair-dress-cut": "35-Health-Beauty/30-Hair-Dress/hair-dress-cut.svg",
+        "hair-dress-round-brush": "35-Health-Beauty/30-Hair-Dress/hair-dress-round-brush.svg",
+        "hair-dress-round-brush_1": "35-Health-Beauty/30-Hair-Dress/hair-dress-round-brush_1.svg"
+    },
+    "31-Beard-Shaving": {
+        "beard-style": "35-Health-Beauty/31-Beard-Shaving/beard-style.svg",
+        "beard-style-mustache": "35-Health-Beauty/31-Beard-Shaving/beard-style-mustache.svg",
+        "beard-style-mustache-1": "35-Health-Beauty/31-Beard-Shaving/beard-style-mustache-1.svg",
+        "beard-style-razor": "35-Health-Beauty/31-Beard-Shaving/beard-style-razor.svg",
+        "beard-style-shave": "35-Health-Beauty/31-Beard-Shaving/beard-style-shave.svg",
+        "beard-style-shaving-machine": "35-Health-Beauty/31-Beard-Shaving/beard-style-shaving-machine.svg"
+    }
+}

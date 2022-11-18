@@ -1,0 +1,103 @@
+{
+    "01-Official-Buildings": {
+        "official-building": "50-Landmarks/01-Official-Buildings/official-building.svg",
+        "official-building-1": "50-Landmarks/01-Official-Buildings/official-building-1.svg",
+        "official-building-2": "50-Landmarks/01-Official-Buildings/official-building-2.svg",
+        "official-building-3": "50-Landmarks/01-Official-Buildings/official-building-3.svg"
+    },
+    "02-Historical-Buildings": {
+        "historical-building-castle": "50-Landmarks/02-Historical-Buildings/historical-building-castle.svg",
+        "historical-building-castle-1": "50-Landmarks/02-Historical-Buildings/historical-building-castle-1.svg",
+        "historical-building-pillar": "50-Landmarks/02-Historical-Buildings/historical-building-pillar.svg",
+        "historical-building-tower": "50-Landmarks/02-Historical-Buildings/historical-building-tower.svg"
+    },
+    "03-Various-Buildings": {
+        "anchor": "50-Landmarks/03-Various-Buildings/anchor.svg",
+        "church": "50-Landmarks/03-Various-Buildings/church.svg",
+        "fishing": "50-Landmarks/03-Various-Buildings/fishing.svg",
+        "igloo": "50-Landmarks/03-Various-Buildings/igloo.svg",
+        "igloo-1": "50-Landmarks/03-Various-Buildings/igloo-1.svg",
+        "lighthouse": "50-Landmarks/03-Various-Buildings/lighthouse.svg",
+        "lighthouse-bird": "50-Landmarks/03-Various-Buildings/lighthouse-bird.svg",
+        "tower": "50-Landmarks/03-Various-Buildings/tower.svg",
+        "water-dam": "50-Landmarks/03-Various-Buildings/water-dam.svg"
+    },
+    "04-Parks": {
+        "park-bench": "50-Landmarks/04-Parks/park-bench.svg",
+        "park-bench-light": "50-Landmarks/04-Parks/park-bench-light.svg",
+        "park-fonutain-1": "50-Landmarks/04-Parks/park-fonutain-1.svg",
+        "park-fountain": "50-Landmarks/04-Parks/park-fountain.svg"
+    },
+    "05-Bridges": {
+        "bridge": "50-Landmarks/05-Bridges/bridge.svg",
+        "bridge-1": "50-Landmarks/05-Bridges/bridge-1.svg",
+        "bridge-2": "50-Landmarks/05-Bridges/bridge-2.svg",
+        "bridge-golden-gate": "50-Landmarks/05-Bridges/bridge-golden-gate.svg"
+    },
+    "06-Landmarks-Europe": {
+        "landmark-berlin-cathedral": "50-Landmarks/06-Landmarks-Europe/landmark-berlin-cathedral.svg",
+        "landmark-bridge": "50-Landmarks/06-Landmarks-Europe/landmark-bridge.svg",
+        "landmark-buckingham-palace": "50-Landmarks/06-Landmarks-Europe/landmark-buckingham-palace.svg",
+        "landmark-cologne-cathedral": "50-Landmarks/06-Landmarks-Europe/landmark-cologne-cathedral.svg",
+        "landmark-colosseum": "50-Landmarks/06-Landmarks-Europe/landmark-colosseum.svg",
+        "landmark-colosseum-1": "50-Landmarks/06-Landmarks-Europe/landmark-colosseum-1.svg",
+        "landmark-eiffel-tower": "50-Landmarks/06-Landmarks-Europe/landmark-eiffel-tower.svg",
+        "landmark-gate": "50-Landmarks/06-Landmarks-Europe/landmark-gate.svg",
+        "landmark-london-bridge": "50-Landmarks/06-Landmarks-Europe/landmark-london-bridge.svg",
+        "landmark-london-eye": "50-Landmarks/06-Landmarks-Europe/landmark-london-eye.svg",
+        "landmark-london-eye-1": "50-Landmarks/06-Landmarks-Europe/landmark-london-eye-1.svg",
+        "landmark-london-tower": "50-Landmarks/06-Landmarks-Europe/landmark-london-tower.svg",
+        "landmark-louvre": "50-Landmarks/06-Landmarks-Europe/landmark-louvre.svg",
+        "landmark-merlion-statue": "50-Landmarks/06-Landmarks-Europe/landmark-merlion-statue.svg",
+        "landmark-netherlands-windmill": "50-Landmarks/06-Landmarks-Europe/landmark-netherlands-windmill.svg",
+        "landmark-netherlands-windmill-1": "50-Landmarks/06-Landmarks-Europe/landmark-netherlands-windmill-1.svg",
+        "landmark-notre-dame": "50-Landmarks/06-Landmarks-Europe/landmark-notre-dame.svg",
+        "landmark-pisa-tower": "50-Landmarks/06-Landmarks-Europe/landmark-pisa-tower.svg",
+        "landmark-rialto-bridge": "50-Landmarks/06-Landmarks-Europe/landmark-rialto-bridge.svg",
+        "landmark-saint-basil's-cathderal": "50-Landmarks/06-Landmarks-Europe/landmark-saint-basil's-cathderal.svg",
+        "landmark-stonehenge": "50-Landmarks/06-Landmarks-Europe/landmark-stonehenge.svg",
+        "landmark-tower": "50-Landmarks/06-Landmarks-Europe/landmark-tower.svg",
+        "landmark-triumph-gate": "50-Landmarks/06-Landmarks-Europe/landmark-triumph-gate.svg"
+    },
+    "07-Landmarks---The-Americas": {
+        "landmark-brooklyn-bridge": "50-Landmarks/07-Landmarks---The-Americas/landmark-brooklyn-bridge.svg",
+        "landmark-christ-the reedemer": "50-Landmarks/07-Landmarks---The-Americas/landmark-christ-the reedemer.svg",
+        "landmark-chrysler": "50-Landmarks/07-Landmarks---The-Americas/landmark-chrysler.svg",
+        "landmark-cn-tower": "50-Landmarks/07-Landmarks---The-Americas/landmark-cn-tower.svg",
+        "landmark-easter-island-moi": "50-Landmarks/07-Landmarks---The-Americas/landmark-easter-island-moi.svg",
+        "landmark-empire-state": "50-Landmarks/07-Landmarks---The-Americas/landmark-empire-state.svg",
+        "landmark-mesoamerican-pyramid": "50-Landmarks/07-Landmarks---The-Americas/landmark-mesoamerican-pyramid.svg",
+        "landmark-one-world-trade-center": "50-Landmarks/07-Landmarks---The-Americas/landmark-one-world-trade-center.svg",
+        "landmark-pyramid": "50-Landmarks/07-Landmarks---The-Americas/landmark-pyramid.svg",
+        "landmark-statue-of-liberty": "50-Landmarks/07-Landmarks---The-Americas/landmark-statue-of-liberty.svg",
+        "landmark-totem-pole": "50-Landmarks/07-Landmarks---The-Americas/landmark-totem-pole.svg"
+    },
+    "08-Landmarks-Middle-East-India": {
+        "landmark-golden-temple": "50-Landmarks/08-Landmarks-Middle-East-India/landmark-golden-temple.svg",
+        "landmark-hagia-sophia": "50-Landmarks/08-Landmarks-Middle-East-India/landmark-hagia-sophia.svg",
+        "landmark-pyramid": "50-Landmarks/08-Landmarks-Middle-East-India/landmark-pyramid.svg",
+        "landmark-pyramid-sphinx": "50-Landmarks/08-Landmarks-Middle-East-India/landmark-pyramid-sphinx.svg",
+        "landmark-taj-mahal": "50-Landmarks/08-Landmarks-Middle-East-India/landmark-taj-mahal.svg"
+    },
+    "09-Landmarks-Asia-Australia": {
+        "landmark-angkor-wat": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-angkor-wat.svg",
+        "landmark-bagan": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-bagan.svg",
+        "landmark-buddha-statue": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-buddha-statue.svg",
+        "landmark-chandi-borobudur": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-chandi-borobudur.svg",
+        "landmark-chinese-pagoda": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-chinese-pagoda.svg",
+        "landmark-chinese-pagoda-1": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-chinese-pagoda-1.svg",
+        "landmark-chinese-pagoda-2": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-chinese-pagoda-2.svg",
+        "landmark-chinese-wall": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-chinese-wall.svg",
+        "landmark-forbidden-city": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-forbidden-city.svg",
+        "landmark-japan-castle": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-japan-castle.svg",
+        "landmark-japan-castle-1": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-japan-castle-1.svg",
+        "landmark-japan-shrine": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-japan-shrine.svg",
+        "landmark-mountain": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-mountain.svg",
+        "landmark-pagoda": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-pagoda.svg",
+        "landmark-shrine-of-itsukushima": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-shrine-of-itsukushima.svg",
+        "landmark-sydney-opera-house": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-sydney-opera-house.svg",
+        "landmark-sydney-opera-house-1": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-sydney-opera-house-1.svg",
+        "landmark-volcano": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-volcano.svg",
+        "landmark-wat-phra-kaew": "50-Landmarks/09-Landmarks-Asia-Australia/landmark-wat-phra-kaew.svg"
+    }
+}

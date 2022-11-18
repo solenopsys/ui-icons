@@ -1,0 +1,138 @@
+{
+    "01-Armchairs": {
+        "armchair": "27-Furnitures-Decoration/01-Armchairs/armchair.svg",
+        "armchair-1": "27-Furnitures-Decoration/01-Armchairs/armchair-1.svg",
+        "armchair-2": "27-Furnitures-Decoration/01-Armchairs/armchair-2.svg",
+        "armchair-3": "27-Furnitures-Decoration/01-Armchairs/armchair-3.svg",
+        "armchair-hanging": "27-Furnitures-Decoration/01-Armchairs/armchair-hanging.svg",
+        "armchair-modern": "27-Furnitures-Decoration/01-Armchairs/armchair-modern.svg",
+        "armchair-modern-1": "27-Furnitures-Decoration/01-Armchairs/armchair-modern-1.svg",
+        "armchair-modern-2": "27-Furnitures-Decoration/01-Armchairs/armchair-modern-2.svg"
+    },
+    "02-Chairs-Stools": {
+        "chair": "27-Furnitures-Decoration/02-Chairs-Stools/chair.svg",
+        "chair-1": "27-Furnitures-Decoration/02-Chairs-Stools/chair-1.svg",
+        "chair-2": "27-Furnitures-Decoration/02-Chairs-Stools/chair-2.svg",
+        "chair-3": "27-Furnitures-Decoration/02-Chairs-Stools/chair-3.svg",
+        "chair-4": "27-Furnitures-Decoration/02-Chairs-Stools/chair-4.svg",
+        "chair-5": "27-Furnitures-Decoration/02-Chairs-Stools/chair-5.svg",
+        "chair-bar": "27-Furnitures-Decoration/02-Chairs-Stools/chair-bar.svg",
+        "chair-bar-1": "27-Furnitures-Decoration/02-Chairs-Stools/chair-bar-1.svg",
+        "chair-director": "27-Furnitures-Decoration/02-Chairs-Stools/chair-director.svg",
+        "chair-modern": "27-Furnitures-Decoration/02-Chairs-Stools/chair-modern.svg",
+        "chair-retro": "27-Furnitures-Decoration/02-Chairs-Stools/chair-retro.svg"
+    },
+    "03-Sofas-Benches": {
+        "bench": "27-Furnitures-Decoration/03-Sofas-Benches/bench.svg",
+        "sofa": "27-Furnitures-Decoration/03-Sofas-Benches/sofa.svg",
+        "sofa-couch": "27-Furnitures-Decoration/03-Sofas-Benches/sofa-couch.svg",
+        "sofa-double": "27-Furnitures-Decoration/03-Sofas-Benches/sofa-double.svg",
+        "sofa-double-modern": "27-Furnitures-Decoration/03-Sofas-Benches/sofa-double-modern.svg"
+    },
+    "04-Shelf": {
+        "shelf-books": "27-Furnitures-Decoration/04-Shelf/shelf-books.svg",
+        "shelf-books-1": "27-Furnitures-Decoration/04-Shelf/shelf-books-1.svg",
+        "shelf-books-round": "27-Furnitures-Decoration/04-Shelf/shelf-books-round.svg",
+        "shelf-drawers": "27-Furnitures-Decoration/04-Shelf/shelf-drawers.svg",
+        "shelf-tv": "27-Furnitures-Decoration/04-Shelf/shelf-tv.svg",
+        "shelf-tv-1": "27-Furnitures-Decoration/04-Shelf/shelf-tv-1.svg"
+    },
+    "05-Tables": {
+        "table": "27-Furnitures-Decoration/05-Tables/table.svg",
+        "table-candelabra": "27-Furnitures-Decoration/05-Tables/table-candelabra.svg",
+        "table-restaurant": "27-Furnitures-Decoration/05-Tables/table-restaurant.svg",
+        "table-restaurant-beach": "27-Furnitures-Decoration/05-Tables/table-restaurant-beach.svg",
+        "table-restaurant-beach-1": "27-Furnitures-Decoration/05-Tables/table-restaurant-beach-1.svg",
+        "table-retro": "27-Furnitures-Decoration/05-Tables/table-retro.svg"
+    },
+    "06-Dresser-Drawers": {
+        "dresser": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser.svg",
+        "dresser-double-door": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-double-door.svg",
+        "dresser-double-door-1": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-double-door-1.svg",
+        "dresser-drawers": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers.svg",
+        "dresser-drawers-1": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-1.svg",
+        "dresser-drawers-2": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-2.svg",
+        "dresser-drawers-3": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-3.svg",
+        "dresser-drawers-4": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-4.svg",
+        "dresser-drawers-5": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-5.svg",
+        "dresser-drawers-6": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-drawers-6.svg",
+        "dresser-wardrobe": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-wardrobe.svg",
+        "dresser-wardrobe-drawers": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-wardrobe-drawers.svg",
+        "dresser-wardrobe-mirror": "27-Furnitures-Decoration/06-Dresser-Drawers/dresser-wardrobe-mirror.svg"
+    },
+    "07-Beds": {
+        "bed-bunk": "27-Furnitures-Decoration/07-Beds/bed-bunk.svg",
+        "bed-double": "27-Furnitures-Decoration/07-Beds/bed-double.svg",
+        "bed-single": "27-Furnitures-Decoration/07-Beds/bed-single.svg",
+        "bed-window": "27-Furnitures-Decoration/07-Beds/bed-window.svg"
+    },
+    "08-Night-Stands": {
+        "night-stand": "27-Furnitures-Decoration/08-Night-Stands/night-stand.svg",
+        "night-stand-book": "27-Furnitures-Decoration/08-Night-Stands/night-stand-book.svg",
+        "night-stand-lamp": "27-Furnitures-Decoration/08-Night-Stands/night-stand-lamp.svg",
+        "night-stand-retro": "27-Furnitures-Decoration/08-Night-Stands/night-stand-retro.svg"
+    },
+    "09-Console": {
+        "console": "27-Furnitures-Decoration/09-Console/console.svg",
+        "console-drawers": "27-Furnitures-Decoration/09-Console/console-drawers.svg",
+        "console-lamp": "27-Furnitures-Decoration/09-Console/console-lamp.svg",
+        "console-table": "27-Furnitures-Decoration/09-Console/console-table.svg"
+    },
+    "10-Dressing": {
+        "dressing-hanger": "27-Furnitures-Decoration/10-Dressing/dressing-hanger.svg",
+        "dressing-hanger-1": "27-Furnitures-Decoration/10-Dressing/dressing-hanger-1.svg",
+        "dressing-hanging-rack": "27-Furnitures-Decoration/10-Dressing/dressing-hanging-rack.svg",
+        "dressing-hanging-rack-1": "27-Furnitures-Decoration/10-Dressing/dressing-hanging-rack-1.svg",
+        "dressing-hanging-rack-2": "27-Furnitures-Decoration/10-Dressing/dressing-hanging-rack-2.svg",
+        "dressing-mirror": "27-Furnitures-Decoration/10-Dressing/dressing-mirror.svg",
+        "dressing-mirror-1": "27-Furnitures-Decoration/10-Dressing/dressing-mirror-1.svg"
+    },
+    "11-Kitchen": {
+        "kitchen-counter": "27-Furnitures-Decoration/11-Kitchen/kitchen-counter.svg",
+        "kitchen-counter-1": "27-Furnitures-Decoration/11-Kitchen/kitchen-counter-1.svg",
+        "kitchen-knife-set": "27-Furnitures-Decoration/11-Kitchen/kitchen-knife-set.svg",
+        "kitchen-shelf": "27-Furnitures-Decoration/11-Kitchen/kitchen-shelf.svg",
+        "kitchen-storage": "27-Furnitures-Decoration/11-Kitchen/kitchen-storage.svg",
+        "kitchen-table": "27-Furnitures-Decoration/11-Kitchen/kitchen-table.svg",
+        "kitchen-window": "27-Furnitures-Decoration/11-Kitchen/kitchen-window.svg"
+    },
+    "12-Decoration": {
+        "decoration-bottle": "27-Furnitures-Decoration/12-Decoration/decoration-bottle.svg",
+        "decoration-bottle-1": "27-Furnitures-Decoration/12-Decoration/decoration-bottle-1.svg",
+        "decoration-cabin": "27-Furnitures-Decoration/12-Decoration/decoration-cabin.svg",
+        "decoration-cherry-blossom-vase": "27-Furnitures-Decoration/12-Decoration/decoration-cherry-blossom-vase.svg",
+        "decoration-clock-retro": "27-Furnitures-Decoration/12-Decoration/decoration-clock-retro.svg",
+        "decoration-crystals": "27-Furnitures-Decoration/12-Decoration/decoration-crystals.svg",
+        "decoration-flower-pot": "27-Furnitures-Decoration/12-Decoration/decoration-flower-pot.svg",
+        "decoration-flower-vase": "27-Furnitures-Decoration/12-Decoration/decoration-flower-vase.svg",
+        "decoration-flowers": "27-Furnitures-Decoration/12-Decoration/decoration-flowers.svg",
+        "decoration-flowers-table": "27-Furnitures-Decoration/12-Decoration/decoration-flowers-table.svg",
+        "decoration-hanging-flowers": "27-Furnitures-Decoration/12-Decoration/decoration-hanging-flowers.svg"
+    },
+    "13-Fireplaces": {
+        "fireplace": "27-Furnitures-Decoration/13-Fireplaces/fireplace.svg",
+        "fireplace-1": "27-Furnitures-Decoration/13-Fireplaces/fireplace-1.svg"
+    },
+    "14-Stairs": {
+        "stairs": "27-Furnitures-Decoration/14-Stairs/stairs.svg",
+        "stairs-circular": "27-Furnitures-Decoration/14-Stairs/stairs-circular.svg"
+    },
+    "15-Steampunk-Decoration": {
+        "steampunk-decoration": "27-Furnitures-Decoration/15-Steampunk-Decoration/steampunk-decoration.svg",
+        "steampunk-decoration-dia-de-los-muertos": "27-Furnitures-Decoration/15-Steampunk-Decoration/steampunk-decoration-dia-de-los-muertos.svg",
+        "steampunk-decoration-lamp": "27-Furnitures-Decoration/15-Steampunk-Decoration/steampunk-decoration-lamp.svg"
+    },
+    "16-Asian-interiors": {
+        "asian-interior-boiler": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-boiler.svg",
+        "asian-interior-bonsai-tree": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-bonsai-tree.svg",
+        "asian-interior-bonsai-tree-1": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-bonsai-tree-1.svg",
+        "asian-interior-door": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-door.svg",
+        "asian-interior-eating-table": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-eating-table.svg",
+        "asian-interior-entrance": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-entrance.svg",
+        "asian-interior-furniture": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-furniture.svg",
+        "asian-interior-lamp": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-lamp.svg",
+        "asian-interior-painting": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-painting.svg",
+        "asian-interior-stove": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-stove.svg",
+        "asian-interior-windows": "27-Furnitures-Decoration/16-Asian-interiors/asian-interior-windows.svg"
+    }
+}

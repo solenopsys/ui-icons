@@ -1,0 +1,120 @@
+{
+    "01-Hotel-Bedrooms": {
+        "hotel": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel.svg",
+        "hotel-bed": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bed.svg",
+        "hotel-bedroom": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bedroom.svg",
+        "hotel-bedroom-1": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bedroom-1.svg",
+        "hotel-bunk-bed": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bunk-bed.svg",
+        "hotel-bunk-bed-1": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bunk-bed-1.svg",
+        "hotel-bunk-bed-2": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-bunk-bed-2.svg",
+        "hotel-double-bed": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-double-bed.svg",
+        "hotel-double-bed-1": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-double-bed-1.svg",
+        "hotel-double-bed-2": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-double-bed-2.svg",
+        "hotel-double-bed-add": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-double-bed-add.svg",
+        "hotel-double-bed-upload": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-double-bed-upload.svg",
+        "hotel-information": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-information.svg",
+        "hotel-single-bed": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed.svg",
+        "hotel-single-bed-1": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-1.svg",
+        "hotel-single-bed-2": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-2.svg",
+        "hotel-single-bed-add": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-add.svg",
+        "hotel-single-bed-download": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-download.svg",
+        "hotel-single-bed-subtract": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-subtract.svg",
+        "hotel-single-bed-upload": "24-Hotels-Spas/01-Hotel-Bedrooms/hotel-single-bed-upload.svg"
+    },
+    "02-Rating-Reviews": {
+        "rating-booklet": "24-Hotels-Spas/02-Rating-Reviews/rating-booklet.svg",
+        "rating-five-star": "24-Hotels-Spas/02-Rating-Reviews/rating-five-star.svg",
+        "rating-five-star-hotel": "24-Hotels-Spas/02-Rating-Reviews/rating-five-star-hotel.svg",
+        "rating-hotel": "24-Hotels-Spas/02-Rating-Reviews/rating-hotel.svg"
+    },
+    "03-Reception": {
+        "reception-bell-call": "24-Hotels-Spas/03-Reception/reception-bell-call.svg",
+        "reception-desk": "24-Hotels-Spas/03-Reception/reception-desk.svg",
+        "reception-hotel": "24-Hotels-Spas/03-Reception/reception-hotel.svg",
+        "reception-hotel-24": "24-Hotels-Spas/03-Reception/reception-hotel-24.svg",
+        "reception-hotel-bell": "24-Hotels-Spas/03-Reception/reception-hotel-bell.svg",
+        "reception-pay": "24-Hotels-Spas/03-Reception/reception-pay.svg",
+        "reception-toilet": "24-Hotels-Spas/03-Reception/reception-toilet.svg"
+    },
+    "04-Room-Service": {
+        "room-service-bring-plate": "24-Hotels-Spas/04-Room-Service/room-service-bring-plate.svg",
+        "room-service-cart": "24-Hotels-Spas/04-Room-Service/room-service-cart.svg",
+        "room-service-cart-1": "24-Hotels-Spas/04-Room-Service/room-service-cart-1.svg",
+        "room-service-cart-food": "24-Hotels-Spas/04-Room-Service/room-service-cart-food.svg",
+        "room-service-champagne": "24-Hotels-Spas/04-Room-Service/room-service-champagne.svg",
+        "room-service-clean": "24-Hotels-Spas/04-Room-Service/room-service-clean.svg",
+        "room-service-do-not-disturb": "24-Hotels-Spas/04-Room-Service/room-service-do-not-disturb.svg",
+        "room-service-food": "24-Hotels-Spas/04-Room-Service/room-service-food.svg",
+        "room-service-give-plate": "24-Hotels-Spas/04-Room-Service/room-service-give-plate.svg",
+        "room-service-give-plate-1": "24-Hotels-Spas/04-Room-Service/room-service-give-plate-1.svg",
+        "room-service-give-plate-2": "24-Hotels-Spas/04-Room-Service/room-service-give-plate-2.svg",
+        "room-service-plates": "24-Hotels-Spas/04-Room-Service/room-service-plates.svg",
+        "room-service-staff": "24-Hotels-Spas/04-Room-Service/room-service-staff.svg"
+    },
+    "05-Bathroom": {
+        "bathroom-hair-dryer": "24-Hotels-Spas/05-Bathroom/bathroom-hair-dryer.svg",
+        "bathroom-hanger": "24-Hotels-Spas/05-Bathroom/bathroom-hanger.svg",
+        "bathroom-hanger-1": "24-Hotels-Spas/05-Bathroom/bathroom-hanger-1.svg",
+        "bathroom-laundry-bin": "24-Hotels-Spas/05-Bathroom/bathroom-laundry-bin.svg",
+        "bathroom-mirror": "24-Hotels-Spas/05-Bathroom/bathroom-mirror.svg",
+        "bathroom-mirror-cabinet": "24-Hotels-Spas/05-Bathroom/bathroom-mirror-cabinet.svg",
+        "bathroom-person": "24-Hotels-Spas/05-Bathroom/bathroom-person.svg",
+        "bathroom-person-1": "24-Hotels-Spas/05-Bathroom/bathroom-person-1.svg",
+        "bathroom-robe": "24-Hotels-Spas/05-Bathroom/bathroom-robe.svg",
+        "bathroom-robe-female": "24-Hotels-Spas/05-Bathroom/bathroom-robe-female.svg",
+        "bathroom-shower": "24-Hotels-Spas/05-Bathroom/bathroom-shower.svg",
+        "bathroom-shower-1": "24-Hotels-Spas/05-Bathroom/bathroom-shower-1.svg",
+        "bathroom-shower-2": "24-Hotels-Spas/05-Bathroom/bathroom-shower-2.svg",
+        "bathroom-shower-head": "24-Hotels-Spas/05-Bathroom/bathroom-shower-head.svg",
+        "bathroom-shower-head-1": "24-Hotels-Spas/05-Bathroom/bathroom-shower-head-1.svg",
+        "bathroom-shower-person": "24-Hotels-Spas/05-Bathroom/bathroom-shower-person.svg",
+        "bathroom-tub-person": "24-Hotels-Spas/05-Bathroom/bathroom-tub-person.svg",
+        "bathroom-tub-towel": "24-Hotels-Spas/05-Bathroom/bathroom-tub-towel.svg"
+    },
+    "06-TV": {
+        "tv-disable": "24-Hotels-Spas/06-TV/tv-disable.svg",
+        "tv-flat-screen": "24-Hotels-Spas/06-TV/tv-flat-screen.svg",
+        "tv-flat-screen-disable": "24-Hotels-Spas/06-TV/tv-flat-screen-disable.svg",
+        "tv-retro": "24-Hotels-Spas/06-TV/tv-retro.svg"
+    },
+    "07-AC-Heating": {
+        "ac-cool": "24-Hotels-Spas/07-AC-Heating/ac-cool.svg",
+        "ac-heat": "24-Hotels-Spas/07-AC-Heating/ac-heat.svg",
+        "heater": "24-Hotels-Spas/07-AC-Heating/heater.svg",
+        "heater-1": "24-Hotels-Spas/07-AC-Heating/heater-1.svg",
+        "ventilator": "24-Hotels-Spas/07-AC-Heating/ventilator.svg"
+    },
+    "08-Garage-Parking": {
+        "car-garage": "24-Hotels-Spas/08-Garage-Parking/car-garage.svg",
+        "car-garage-1": "24-Hotels-Spas/08-Garage-Parking/car-garage-1.svg",
+        "car-garage-2": "24-Hotels-Spas/08-Garage-Parking/car-garage-2.svg",
+        "car-key": "24-Hotels-Spas/08-Garage-Parking/car-key.svg",
+        "car-key-1": "24-Hotels-Spas/08-Garage-Parking/car-key-1.svg",
+        "car-key-2": "24-Hotels-Spas/08-Garage-Parking/car-key-2.svg",
+        "car-parking": "24-Hotels-Spas/08-Garage-Parking/car-parking.svg"
+    },
+    "09-Spas": {
+        "spa-bamboo": "24-Hotels-Spas/09-Spas/spa-bamboo.svg",
+        "spa-board": "24-Hotels-Spas/09-Spas/spa-board.svg",
+        "spa-candle": "24-Hotels-Spas/09-Spas/spa-candle.svg",
+        "spa-candle-flower": "24-Hotels-Spas/09-Spas/spa-candle-flower.svg",
+        "spa-flame": "24-Hotels-Spas/09-Spas/spa-flame.svg",
+        "spa-hand-flower": "24-Hotels-Spas/09-Spas/spa-hand-flower.svg",
+        "spa-hand-flower-1": "24-Hotels-Spas/09-Spas/spa-hand-flower-1.svg",
+        "spa-lotus": "24-Hotels-Spas/09-Spas/spa-lotus.svg",
+        "spa-lotus-1": "24-Hotels-Spas/09-Spas/spa-lotus-1.svg",
+        "spa-sign": "24-Hotels-Spas/09-Spas/spa-sign.svg",
+        "spa-soap": "24-Hotels-Spas/09-Spas/spa-soap.svg",
+        "spa-stone": "24-Hotels-Spas/09-Spas/spa-stone.svg",
+        "spa-stone-1": "24-Hotels-Spas/09-Spas/spa-stone-1.svg",
+        "spa-therapist-robe": "24-Hotels-Spas/09-Spas/spa-therapist-robe.svg",
+        "spa-towel": "24-Hotels-Spas/09-Spas/spa-towel.svg"
+    },
+    "10-Sauna": {
+        "sauna-heat": "24-Hotels-Spas/10-Sauna/sauna-heat.svg",
+        "sauna-heat-1": "24-Hotels-Spas/10-Sauna/sauna-heat-1.svg",
+        "sauna-heat-person": "24-Hotels-Spas/10-Sauna/sauna-heat-person.svg",
+        "sauna-heat-person-1": "24-Hotels-Spas/10-Sauna/sauna-heat-person-1.svg",
+        "sauna-heat-stone": "24-Hotels-Spas/10-Sauna/sauna-heat-stone.svg"
+    }
+}

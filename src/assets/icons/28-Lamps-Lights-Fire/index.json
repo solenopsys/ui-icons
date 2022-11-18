@@ -1,0 +1,55 @@
+{
+    "01-Standing-Lamps": {
+        "standing-lamp": "28-Lamps-Lights-Fire/01-Standing-Lamps/standing-lamp.svg",
+        "standing-lamp-1": "28-Lamps-Lights-Fire/01-Standing-Lamps/standing-lamp-1.svg",
+        "standing-lamp-double": "28-Lamps-Lights-Fire/01-Standing-Lamps/standing-lamp-double.svg"
+    },
+    "02-Ceiling-Lamps": {
+        "ceiling-ball-chandelier-retro": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-ball-chandelier-retro.svg",
+        "ceiling-ball-chandelier-retro-1": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-ball-chandelier-retro-1.svg",
+        "ceiling-lamp": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp.svg",
+        "ceiling-lamp-1": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-1.svg",
+        "ceiling-lamp-2": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-2.svg",
+        "ceiling-lamp-ball-chandelier": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-ball-chandelier.svg",
+        "ceiling-lamp-chandelier": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-chandelier.svg",
+        "ceiling-lamp-double": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-double.svg",
+        "ceiling-lamp-three": "28-Lamps-Lights-Fire/02-Ceiling-Lamps/ceiling-lamp-three.svg"
+    },
+    "03-Table-Lamps": {
+        "table-lamp": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp.svg",
+        "table-lamp-1": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-1.svg",
+        "table-lamp-2": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-2.svg",
+        "table-lamp-3": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-3.svg",
+        "table-lamp-4": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-4.svg",
+        "table-lamp-colorful": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-colorful.svg",
+        "table-lamp-hanging": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-hanging.svg",
+        "table-lamp-hanging-1": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-hanging-1.svg",
+        "table-lamp-retro": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-retro.svg",
+        "table-lamp-retro-1": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-retro-1.svg",
+        "table-lamp-square": "28-Lamps-Lights-Fire/03-Table-Lamps/table-lamp-square.svg"
+    },
+    "04-Lighter-Matches-Candles": {
+        "candle": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/candle.svg",
+        "lantern": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/lantern.svg",
+        "lantern-1": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/lantern-1.svg",
+        "lighter": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/lighter.svg",
+        "match-fire": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/match-fire.svg",
+        "match-fire-1": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/match-fire-1.svg",
+        "matches-fire": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/matches-fire.svg",
+        "table-candles": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/table-candles.svg",
+        "torch": "28-Lamps-Lights-Fire/04-Lighter-Matches-Candles/torch.svg"
+    },
+    "05-Light-Bubbles": {
+        "light-bulb": "28-Lamps-Lights-Fire/05-Light-Bubbles/light-bulb.svg",
+        "light-bulb-1": "28-Lamps-Lights-Fire/05-Light-Bubbles/light-bulb-1.svg",
+        "light-bulb-eco": "28-Lamps-Lights-Fire/05-Light-Bubbles/light-bulb-eco.svg",
+        "light-bulb-shine": "28-Lamps-Lights-Fire/05-Light-Bubbles/light-bulb-shine.svg"
+    },
+    "06-Smart-Lighting": {
+        "smart-light-connect": "28-Lamps-Lights-Fire/06-Smart-Lighting/smart-light-connect.svg",
+        "smart-light-signal": "28-Lamps-Lights-Fire/06-Smart-Lighting/smart-light-signal.svg",
+        "smart-light-smartphone": "28-Lamps-Lights-Fire/06-Smart-Lighting/smart-light-smartphone.svg",
+        "smart-light-wifi": "28-Lamps-Lights-Fire/06-Smart-Lighting/smart-light-wifi.svg",
+        "smart-light-wifi-1": "28-Lamps-Lights-Fire/06-Smart-Lighting/smart-light-wifi-1.svg"
+    }
+}

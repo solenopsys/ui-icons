@@ -1,0 +1,101 @@
+{
+    "01-Travel-Metaphor": {
+        "travel-crossroad-direction-board": "23-Travel/01-Travel-Metaphor/travel-crossroad-direction-board.svg",
+        "travel-luggage": "23-Travel/01-Travel-Metaphor/travel-luggage.svg",
+        "travel-luggage-1": "23-Travel/01-Travel-Metaphor/travel-luggage-1.svg",
+        "travel-man-luggage": "23-Travel/01-Travel-Metaphor/travel-man-luggage.svg",
+        "travel-map-finger": "23-Travel/01-Travel-Metaphor/travel-map-finger.svg",
+        "travel-paper-plane": "23-Travel/01-Travel-Metaphor/travel-paper-plane.svg",
+        "travel-suitcase": "23-Travel/01-Travel-Metaphor/travel-suitcase.svg",
+        "travel-user-pin": "23-Travel/01-Travel-Metaphor/travel-user-pin.svg",
+        "travel-woman-luggage": "23-Travel/01-Travel-Metaphor/travel-woman-luggage.svg"
+    },
+    "02-Passports": {
+        "passport": "23-Travel/02-Passports/passport.svg",
+        "passport-globe": "23-Travel/02-Passports/passport-globe.svg",
+        "passport-hand": "23-Travel/02-Passports/passport-hand.svg",
+        "passport-ticket": "23-Travel/02-Passports/passport-ticket.svg"
+    },
+    "03-Baggage": {
+        "baggage": "23-Travel/03-Baggage/baggage.svg",
+        "baggage-1": "23-Travel/03-Baggage/baggage-1.svg",
+        "baggage-add": "23-Travel/03-Baggage/baggage-add.svg",
+        "baggage-cart": "23-Travel/03-Baggage/baggage-cart.svg",
+        "baggage-cart-1": "23-Travel/03-Baggage/baggage-cart-1.svg",
+        "baggage-cart-2": "23-Travel/03-Baggage/baggage-cart-2.svg",
+        "baggage-check": "23-Travel/03-Baggage/baggage-check.svg",
+        "baggage-check-in-plane": "23-Travel/03-Baggage/baggage-check-in-plane.svg",
+        "baggage-check-in-user": "23-Travel/03-Baggage/baggage-check-in-user.svg",
+        "baggage-drop-off": "23-Travel/03-Baggage/baggage-drop-off.svg",
+        "baggage-leave": "23-Travel/03-Baggage/baggage-leave.svg",
+        "baggage-line": "23-Travel/03-Baggage/baggage-line.svg",
+        "baggage-plane": "23-Travel/03-Baggage/baggage-plane.svg",
+        "baggage-question": "23-Travel/03-Baggage/baggage-question.svg",
+        "baggage-roll": "23-Travel/03-Baggage/baggage-roll.svg",
+        "baggage-scan": "23-Travel/03-Baggage/baggage-scan.svg",
+        "baggage-take": "23-Travel/03-Baggage/baggage-take.svg",
+        "baggage-weight": "23-Travel/03-Baggage/baggage-weight.svg",
+        "baggage-weight-1": "23-Travel/03-Baggage/baggage-weight-1.svg",
+        "baggage-weight-2": "23-Travel/03-Baggage/baggage-weight-2.svg"
+    },
+    "04-Planes-Trip": {
+        "plane": "23-Travel/04-Planes-Trip/plane.svg",
+        "plane-1": "23-Travel/04-Planes-Trip/plane-1.svg",
+        "plane-land": "23-Travel/04-Planes-Trip/plane-land.svg",
+        "plane-take-off": "23-Travel/04-Planes-Trip/plane-take-off.svg",
+        "plane-trip": "23-Travel/04-Planes-Trip/plane-trip.svg",
+        "plane-trip-1": "23-Travel/04-Planes-Trip/plane-trip-1.svg",
+        "plane-trip-cloud": "23-Travel/04-Planes-Trip/plane-trip-cloud.svg",
+        "plane-trip-cocktail-service": "23-Travel/04-Planes-Trip/plane-trip-cocktail-service.svg",
+        "plane-trip-food-service": "23-Travel/04-Planes-Trip/plane-trip-food-service.svg",
+        "plane-trip-international": "23-Travel/04-Planes-Trip/plane-trip-international.svg",
+        "plane-trip-land-cancel": "23-Travel/04-Planes-Trip/plane-trip-land-cancel.svg",
+        "plane-trip-land-check": "23-Travel/04-Planes-Trip/plane-trip-land-check.svg",
+        "plane-trip-land-time": "23-Travel/04-Planes-Trip/plane-trip-land-time.svg",
+        "plane-trip-person": "23-Travel/04-Planes-Trip/plane-trip-person.svg",
+        "plane-trip-return": "23-Travel/04-Planes-Trip/plane-trip-return.svg",
+        "plane-trip-return-1": "23-Travel/04-Planes-Trip/plane-trip-return-1.svg",
+        "plane-trip-round": "23-Travel/04-Planes-Trip/plane-trip-round.svg",
+        "plane-trip-take-off-cancel": "23-Travel/04-Planes-Trip/plane-trip-take-off-cancel.svg",
+        "plane-trip-take-off-check": "23-Travel/04-Planes-Trip/plane-trip-take-off-check.svg",
+        "plane-trip-take-off-time": "23-Travel/04-Planes-Trip/plane-trip-take-off-time.svg",
+        "plane-trip-time": "23-Travel/04-Planes-Trip/plane-trip-time.svg"
+    },
+    "05-Tickets-Check-in-Schedule": {
+        "plane-board": "23-Travel/05-Tickets-Check-in-Schedule/plane-board.svg",
+        "plane-board-arrival-departure": "23-Travel/05-Tickets-Check-in-Schedule/plane-board-arrival-departure.svg",
+        "plane-boarding-pass": "23-Travel/05-Tickets-Check-in-Schedule/plane-boarding-pass.svg",
+        "plane-boarding-pass-1": "23-Travel/05-Tickets-Check-in-Schedule/plane-boarding-pass-1.svg",
+        "plane-boarding-pass-check": "23-Travel/05-Tickets-Check-in-Schedule/plane-boarding-pass-check.svg",
+        "plane-boarding-pass-hand": "23-Travel/05-Tickets-Check-in-Schedule/plane-boarding-pass-hand.svg",
+        "plane-boarding-pass-smartphone-check": "23-Travel/05-Tickets-Check-in-Schedule/plane-boarding-pass-smartphone-check.svg",
+        "plane-check-in": "23-Travel/05-Tickets-Check-in-Schedule/plane-check-in.svg",
+        "plane-info-center": "23-Travel/05-Tickets-Check-in-Schedule/plane-info-center.svg",
+        "plane-ticket-return": "23-Travel/05-Tickets-Check-in-Schedule/plane-ticket-return.svg"
+    },
+    "06-Travel-Insurance": {
+        "travel-insurance-cover": "23-Travel/06-Travel-Insurance/travel-insurance-cover.svg",
+        "travel-insurance-plane": "23-Travel/06-Travel-Insurance/travel-insurance-plane.svg",
+        "travel-insurance-plane-1": "23-Travel/06-Travel-Insurance/travel-insurance-plane-1.svg",
+        "travel-insurance-shield": "23-Travel/06-Travel-Insurance/travel-insurance-shield.svg"
+    },
+    "07-Security-Customs": {
+        "security-officer": "23-Travel/07-Security-Customs/security-officer.svg",
+        "security-officer-animal": "23-Travel/07-Security-Customs/security-officer-animal.svg",
+        "security-officer-camera": "23-Travel/07-Security-Customs/security-officer-camera.svg",
+        "security-officer-gate": "23-Travel/07-Security-Customs/security-officer-gate.svg",
+        "security-officer-luggage": "23-Travel/07-Security-Customs/security-officer-luggage.svg",
+        "security-officer-luggage-check": "23-Travel/07-Security-Customs/security-officer-luggage-check.svg",
+        "security-officer-luggage-reject": "23-Travel/07-Security-Customs/security-officer-luggage-reject.svg",
+        "security-officer-passport": "23-Travel/07-Security-Customs/security-officer-passport.svg",
+        "security-officer-plant": "23-Travel/07-Security-Customs/security-officer-plant.svg",
+        "security-officer-scanner": "23-Travel/07-Security-Customs/security-officer-scanner.svg",
+        "security-officer-scanner-beep": "23-Travel/07-Security-Customs/security-officer-scanner-beep.svg"
+    },
+    "08-Airport": {
+        "airport": "23-Travel/08-Airport/airport.svg",
+        "airport-road": "23-Travel/08-Airport/airport-road.svg",
+        "airport-signal": "23-Travel/08-Airport/airport-signal.svg",
+        "airport-stairs": "23-Travel/08-Airport/airport-stairs.svg"
+    }
+}
