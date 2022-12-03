@@ -1,4 +1,5 @@
 {
+  "name": "icons",
   "projectType": "library",
   "sourceRoot": "libs/fui/icons/src",
   "prefix": "hyperconverged",
