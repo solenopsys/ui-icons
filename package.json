@@ -1,6 +1,9 @@
 {
   "name": "@solenopsys/uimatrix-icons",
   "version": "0.0.1",
+  "dependencies": {
+    "ngx-clipboard": "15.1.0"
+  },
   "scripts": {
     "test": "node index.js",
     "build": "tsc -p tsconfig.lib.json"
