@@ -1,7 +1,7 @@
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
-import {IconButtonComponent} from "./icon-button/icon-button.component";
-import { UtilsModule } from "@solenopsys/uimatrix-utils";
+import {IconButtonComponent} from "@solenopsys/uimatrix-controls";
+import {UtilsModule} from "@solenopsys/uimatrix-utils";
 import {DunamicIconComponent} from "./dunamic-icon/dunamic-icon.component";
 import {ClipboardModule} from "ngx-clipboard";
 
@@ -13,5 +13,5 @@ import {ClipboardModule} from "ngx-clipboard";
   ],
   declarations: [IconButtonComponent,DunamicIconComponent]
 })
-export class FuiIconsModule {
+export class UIIconsModule {
 }

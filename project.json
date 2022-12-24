@@ -2,7 +2,7 @@
   "name": "icons",
   "projectType": "library",
   "sourceRoot": "packages/uimatrix/icons/src",
-  "prefix": "sc",
+  "prefix": "ui",
   "targets": {
     "test": {
       "executor": "@nrwl/jest:jest",

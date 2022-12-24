@@ -1,5 +1,5 @@
 module.exports = {
-  displayName: 'fui-icons',
+  displayName: 'ui-icons',
   preset: '../../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
   globals: {

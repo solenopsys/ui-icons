@@ -1,7 +1,7 @@
 import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
-    selector: 'fui-dunamic-icon',
+    selector: 'ui-dunamic-icon',
     templateUrl: './dunamic-icon.component.html',
     styleUrls: ['./dunamic-icon.component.css']
 })

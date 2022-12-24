@@ -2,14 +2,13 @@ import {NgModule} from '@angular/core';
 import {BrowserModule} from '@angular/platform-browser';
 
 import {RouterModule, Routes} from '@angular/router';
-import {FuiNavigateModule} from "@solenopsys/uimatrix-layouts";
 import {IconsPageComponent} from "./icons-page/icons-page.component";
 import {IconsSectionPageComponent} from "./icons-section-page/icons-section-page.component";
 
 import {UtilsGlobalsModule} from "@solenopsys/lib-globals";
 import {ClipboardModule} from "ngx-clipboard";
-import {FuiTemplatesModule} from "@solenopsys/uimatrix-templates";
-import {FuiIconsModule} from "../lib/fui-icons.module";
+import {UIIconsModule} from "../ui-icons.module";
+import {UILayoutsModule} from "@solenopsys/uimatrix-layouts";
 
 
 const routes: Routes = [
@@ -40,10 +39,9 @@ export const IMPORTS_CONF = [
     declarations: [IconsPageComponent, IconsSectionPageComponent],
     imports: [
         ...IMPORTS_CONF,
-        FuiNavigateModule,
-
+        UILayoutsModule,
         UtilsGlobalsModule,
-        FuiIconsModule
+        UIIconsModule
     ],
     providers: [...PROVIDERS_CONF],
     bootstrap: [],
