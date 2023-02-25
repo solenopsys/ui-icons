@@ -26,7 +26,7 @@ const routes: Routes = [
 ];
 
 export const PROVIDERS_CONF = [
-    {provide: 'assets_dir', useValue: "/fm/modules/alexstorm/icons"},
+    {provide: 'assets_dir', useValue: "/fm/modules/richteri/icons"},
     {provide: 'mod_name', useValue: "icons"}
 ]
 
