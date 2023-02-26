@@ -1,5 +1,5 @@
 {
-  "name": "icons",
+  "name": "ui-icons",
   "projectType": "library",
   "sourceRoot": "packages/uimatrix/ui-icons/src",
   "prefix": "ui",
