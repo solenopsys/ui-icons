@@ -6,7 +6,7 @@ import {firstValueFrom} from "rxjs";
 @Component({
     selector: 'app-icons-section-page',
     templateUrl: './icons-section-page.component.html',
-    styleUrls: ['./icons-section-page.component.css']
+    styleUrls: ['./icons-section-page.component.scss']
 })
 export class IconsSectionPageComponent implements OnInit {
 
