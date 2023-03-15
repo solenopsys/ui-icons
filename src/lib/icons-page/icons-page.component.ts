@@ -10,17 +10,17 @@ import {firstValueFrom} from "rxjs";
 })
 export class IconsPageComponent implements OnInit {
 
-  icons: any;
+ // icons: any;
 
   constructor(private httpClient: HttpClient) {
   }
 
   ngOnInit(): void {
-    firstValueFrom(this.httpClient.get('/assets/icons/index.json')).then(icons => {
-      this.icons = Object.entries(icons).map((entry: any) => {
-        return {key: entry[0], title: entry[0]};
-      });
-    });
+    // firstValueFrom(this.httpClient.get('/assets/icons/index.json')).then(icons => {
+    //   this.icons = Object.entries(icons).map((entry: any) => {
+    //     return {key: entry[0], title: entry[0]};
+    //   });
+    // });
   }
 
 }
