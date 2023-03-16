@@ -10,8 +10,8 @@ import {BrowserModule} from '@angular/platform-browser';
 import {RouterModule, Routes} from '@angular/router';
 
 import {UtilsGlobalsModule} from "@solenopsys/fl-globals";
-import {IconsPageComponent} from "./icons-page/icons-page.component";
 import {IconsSectionPageComponent} from "./icons-section-page/icons-section-page.component";
+import {IconsPageComponent} from "./icons-page/icons-page.component";
 
 
 const routes: Routes = [
