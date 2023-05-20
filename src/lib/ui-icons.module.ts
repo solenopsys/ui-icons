@@ -15,7 +15,6 @@ import {IconsPageComponent} from "./icons-page/icons-page.component";
 
 
 const routes: Routes = [
-    {path: '', redirectTo: '01-Interface-Essential', pathMatch: 'full'},
 
     {
         path: 'icons',
