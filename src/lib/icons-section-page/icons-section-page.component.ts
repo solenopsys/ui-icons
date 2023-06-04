@@ -10,8 +10,8 @@ import {firstValueFrom} from "rxjs";
 })
 export class IconsSectionPageComponent implements OnInit {
 
-    iconsGroups: any;
-    section: string | undefined;
+    iconsGroups!: { value: string; label: string; }
+    section!: string ;
 
     constructor(private route: ActivatedRoute, private httpClient: HttpClient) {
 
@@ -26,7 +26,7 @@ export class IconsSectionPageComponent implements OnInit {
 
     async loadGroups(section:string) {
         const file = `/assets/icons/${section}/index.json`;
-        this.iconsGroups = await firstValueFrom(this.httpClient.get(file));
+        this.iconsGroups = await firstValueFrom(this.httpClient.get<{ value: string; label: string; }>(file));
     }
 
 }

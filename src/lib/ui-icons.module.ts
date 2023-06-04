@@ -2,7 +2,7 @@ import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {UIControlsModule} from "@solenopsys/ui-controls";
 import {UtilsModule} from "@solenopsys/ui-utils";
-import {DunamicIconComponent} from "./dunamic-icon/dunamic-icon.component";
+import {DynamicIconComponent} from "./dynamic-icon/dynamic-icon.component";
 import {ClipboardModule} from "ngx-clipboard";
 import {SubMenuComponent} from "./sub-menu/sub-menu.component";
 import {BrowserModule} from '@angular/platform-browser';
@@ -39,15 +39,16 @@ export const IMPORTS_CONF = [
 
 
 @NgModule({
-    declarations: [IconsPageComponent, IconsSectionPageComponent,DunamicIconComponent,SubMenuComponent],
+    declarations: [IconsPageComponent, IconsSectionPageComponent, SubMenuComponent,DynamicIconComponent],
     imports: [
         ...IMPORTS_CONF,
         UtilsGlobalsModule,
+        UtilsModule,
 
     ],
     providers: [...PROVIDERS_CONF],
     bootstrap: [],
-    exports: [DunamicIconComponent, SubMenuComponent]
+    exports: [DynamicIconComponent, SubMenuComponent]
 })
 export class UIIconsModule {
 }
