@@ -5,7 +5,6 @@ import {UtilsModule} from "@solenopsys/ui-utils";
 import {DynamicIconComponent} from "./dynamic-icon/dynamic-icon.component";
 import {ClipboardModule} from "ngx-clipboard";
 import {SubMenuComponent} from "./sub-menu/sub-menu.component";
-import {BrowserModule} from '@angular/platform-browser';
 
 import {RouterModule, Routes} from '@angular/router';
 
@@ -30,7 +29,7 @@ export const PROVIDERS_CONF = [
 ]
 
 export const IMPORTS_CONF = [
-    BrowserModule,
+
     RouterModule,
     ClipboardModule,
     CommonModule, UtilsModule, ClipboardModule, UIControlsModule,
